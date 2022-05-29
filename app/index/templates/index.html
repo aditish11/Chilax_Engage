@@ -1,0 +1,203 @@
+{% extends "base.html" %} 
+  {% block body %}
+       <h4 style="margin-left:2rem">Hello {{ user_display_name }}!</h4>
+      <!--MAIN_CARAOUSEL -->
+     <div
+      id="carouselExampleControls"
+      class="carousel slide m-5"
+      data-bs-ride="carousel"
+      data-bs-interval="false"
+      >
+      <div class="carousel-inner">
+        <div class="carousel-item active">
+          <div class="card w-80" id="highlight-1">
+            <div class="card-body">
+              <h5 class="card-title"></h5>
+              <h4 class="card-text">
+                Want to get recommendations based on a song??
+              </h4>
+              <a
+                href="{{ url_for('search_bp.search') }}"
+                class="btn btn-primary btn-lg"
+                id="main-btn"
+                >Click Here
+              </a>
+            </div>
+          </div>
+        </div>
+
+        <div class="carousel-item">
+          <div class="card w-80" id="highlight-2">
+            <div class="card-body">
+              <h5 class="card-title"></h5>
+              <h4 class="card-text">
+                Want to get recommended songs of any artist??
+              </h4>
+              <a
+                href="{{ url_for('artist_bp.artist') }}"
+                class="btn btn-primary btn-lg"
+                id="main-btn"
+                >Click here
+              </a>
+            </div>
+          </div>
+        </div>
+
+        <div class="carousel-item">
+          <div class="card w-80" id="highlight-3">
+            <div class="card-body">
+              <h5 class="card-title"></h5>
+              <h4 class="card-text">
+                Want to get recommendations based on audio features??
+              </h4>
+              <a
+                href="{{ url_for('tunes_bp.tunes') }}"
+                class="btn btn-primary btn-lg"
+                id="main-btn"
+                >Click here
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <button
+        class="carousel-control-prev"
+        type="button"
+        data-bs-target="#carouselExampleControls"
+        data-bs-slide="prev"
+      >
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Previous</span>
+      </button>
+      <button
+        class="carousel-control-next"
+        type="button"
+        data-bs-target="#carouselExampleControls"
+        data-bs-slide="next"
+      >
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Next</span>
+      </button>
+      </div>
+      
+      
+      
+      <!--Popular cards-->
+      <h4>Popular</h4>
+      <div class="carousel-2 mt-5" data-flickity='{ "groupCells": true }'>
+      {% if popular_songs|length!=0 %} 
+      {% for track in popular_songs %}
+      <div class="carousel-cell">
+        <a href="{{ track['track_url'] }}">
+          <img src="{{ track['track_img'] }}" class="card-img-top" alt=".." />
+        </a>
+        <div class="middle">
+          <div class="content">
+          <p class="content_text">{{ track['track_name'] }}</p>
+          </div>
+        </div>
+      </div>
+      {% endfor %} {% endif %}
+      </div>
+    
+       <br/>
+
+      <!-- Taylor Swift songs -->
+      <h4>For fans of Taylor Swift</h4>
+      <div class="carousel-2 mt-5" data-flickity='{ "groupCells": true }'>
+        {% if taylor_songs|length!=0 %} 
+        {% for track in taylor_songs %}
+        <div class="carousel-cell">
+          <a href="{{ track['track_url'] }}">
+            <img src="{{ track['track_img'] }}" class="card-img-top" alt=".." />
+          </a>
+          <div class="middle">
+            <div class="content">
+            <p class="content_text">{{ track['track_name'] }}</p>
+            </div>
+          </div>
+        </div>
+            {% endfor %} {% endif %}
+          </div>
+      
+        <br/>
+         <!--Ariana Grande songs -->
+        <h4>For fans of Ariana Grande</h4>
+        <div class="carousel-2 mt-5" data-flickity='{ "groupCells": true }'>
+          {% if ariana_songs|length!=0 %} 
+          {% for track in ariana_songs %}
+          <div class="carousel-cell">
+            <a href="{{ track['track_url'] }}">
+              <img src="{{ track['track_img'] }}" class="card-img-top" alt=".." />
+            </a>
+            <div class="middle">
+              <div class="content">
+              <p class="content_text">{{ track['track_name'] }}</p>
+              </div>
+            </div>
+      </div>
+      {% endfor %} {% endif %}
+     </div>
+    
+     </br>
+
+     <!-- Justin Bieber songs -->
+     <h4>For fans of Justin Bieber</h4>
+     <div class="carousel-2 mt-5" data-flickity='{ "groupCells": true }'>
+      {% if justin_songs|length!=0 %} 
+      {% for track in justin_songs %}
+      <div class="carousel-cell">
+        <a href="{{ track['track_url'] }}">
+          <img src="{{ track['track_img'] }}" class="card-img-top" alt=".." />
+        </a>
+        <div class="middle">
+          <div class="content">
+          <p class="content_text">{{ track['track_name'] }}</p>
+          </div>
+        </div>
+      </div>
+      {% endfor %} {% endif %}
+      </div>
+
+     </br>
+
+
+     <!-- Shawn Mendes songs -->
+     <h4>For fans of Shawn Mendes</h4>
+     <div class="carousel-2 mt-5" data-flickity='{ "groupCells": true }'>
+       {% if shawn_songs|length!=0 %} 
+       {% for track in shawn_songs %}
+      <div class="carousel-cell">
+        <a href="{{ track['track_url'] }}">
+          <img src="{{ track['track_img'] }}" class="card-img-top" alt=".." />
+        </a>
+        <div class="middle">
+          <div class="content">
+          <p class="content_text">{{ track['track_name'] }}</p>
+          </div>
+        </div>
+      </div>
+      {% endfor %} {% endif %}
+     </div>
+
+     <!-- footer -->
+     <footer class="bg-dark text-center text-white" style="margin: none;">
+     <div class="container p-4 pb-0 mt-5">
+       <section class="mb-4">
+       <hr/>  
+         <a class="btn btn-outline-light btn-floating m-1" href="https://www.linkedin.com/in/aditi-srivastava-b41aa51ba/" role="button"
+         ><i class="fab fa-linkedin-in"></i
+       ></a>
+ 
+       <a class="btn btn-outline-light btn-floating m-1" href="https://github.com/aditish11" role="button"
+         ><i class="fab fa-github"></i
+       ></a>
+     </section>
+     </div>
+     <div class="text-center " style="background-color: rgba(0, 0, 0, 0.2);">
+       Made by Aditi
+     </div>
+     </footer>
+  
+  {% endblock %}

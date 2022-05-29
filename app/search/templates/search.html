@@ -1,0 +1,50 @@
+{% extends "base.html" %} 
+  {% block body %}
+    <!-- for taking the input of song name -->
+    <div class="container">
+      <form action="/search" method="POST">
+        <div class="wrapper">
+          <div class="input-group">
+            <div class="form-outline">
+              <a href="" target="_blank" hidden></a>
+              <input
+                type="text"
+                placeholder="Type to search.."
+                name="search"
+                id="search"
+                autocomplete="chrome-off"
+              />
+            </div>
+            <div class="autocom-box"></div>
+            <button class="btn btn-primary" type="submit" id="yoyo">
+              <i class="fas fa-search"></i>
+            </button>
+          </div>
+        </div>
+      </form>
+    </div>
+    
+
+    <!-- displaying the songs based on recommendations -->
+    <div class="carousel-2 mt-5" data-flickity='{ "groupCells": true }'>
+      {% if img_details|length!=0 %} {% for track in img_details %}
+      <div class="carousel-cell">
+    <a href="{{ track['track_url'] }}">
+      <img src="{{ track['track_img'] }}" class="card-img-top" alt=".." />
+    </a>
+    <div class="middle">
+      <div class="content">
+        <p class="content_text">{{ track['track_name'] }}</p>
+      </div>
+    </div>
+    </div>
+    {% endfor %} {% endif %}
+    </div>
+
+    
+    <script>
+      let song_list={{list_of_songs|tojson}};
+    </script>
+    <script src="{{url_for('static',filename='js/search.js')}}"></script>
+
+  {% endblock %}

@@ -1,0 +1,948 @@
+danceability,energy,loudness,mode,speechiness,acousticness,liveness,valence,tempo,name
+0.494,0.899,-5.081,0,0.165,0.599,0.111,0.559,79.895,Hale Dil Harshit Saxena
+0.614,0.653,-5.056,0,0.036,0.353,0.113,0.379,103.989,"Aye Khuda - Kshitij Tarey, Saim Bhat, Mithoon"
+0.296,0.485,6.389,0,0.0269,0.478,0.111,0.452,199.807,Keep
+0.461,0.481,-6.389,0,0.0327,0.789,0.127,0.262,199.807,"Phir Mohabbat - Mohammed Irfan, Arijit Singh, Saim Bhat"
+0.223,0.359,-7.569,1,0.0312,0.845,0.133,0.193,73.059,"Hamari Adhuri Kahani (Title Track) - Jeet Gannguli, Arijit Singh"
+0.314,0.478,-7.201,0,0.0412,0.783,0.147,0.276,199.631,"Humnava - Mithoon, Papon"
+0.296,0.581,-5.945,0,0.0338,0.433,0.0577,0.231,147.935,Hasi - Male Version - Ami Mishra
+0.52,0.485,-6.438,0,0.0269,0.927,0.159,0.407,143.901,"Hasi - Female Version - Ami Mishra, Shreya Ghoshal"
+0.553,0.705,-6.898,1,0.0308,0.478,0.278,0.324,95.007,"Har Kisi Ko - Arijit Singh, Neeti Mohan"
+0.662,0.873,-3.927,1,0.0489,0.043,0.338,0.532,89.972,"Kaabil Hoon - Jubin Nautiyal, Palak Muchhal"
+0.615,0.58,-7.477,0,0.0411,0.332,0.148,0.498,87.977,Kisi Se Pyar Ho Jaye - Jubin Nautiyal
+0.722,0.895,-4.371,0,0.117,0.093,0.185,0.388,115.969,Mon Amour - Vishal Dadlani
+0.693,0.896,-4.114,1,0.0682,0.31,0.195,0.854,126.995,"Radha - Pritam, Shahid Mallya, Sunidhi Chauhan"
+0.751,0.835,-4.462,1,0.0887,0.0549,0.111,0.509,124.97,"Beech Beech Mein - Pritam, Arijit Singh, Shalmali Kholgade, Shefali Alvares"
+0.307,0.604,-5.592,1,0.0397,0.593,0.0789,0.452,85.641,"Safar - Pritam, Arijit Singh"
+0.606,0.601,-5.576,1,0.0283,0.796,0.127,0.453,125.961,"Hawayein - Pritam, Arijit Singh"
+0.501,0.828,-2.495,0,0.114,0.053,0.135,0.483,84.659,Backbone - Harrdy Sandhu
+0.319,0.552,-6.401,1,0.0307,0.719,0.144,0.221,93.991,"Humsafar - Akhil Sachdeva, Mansheel Gujral"
+0.759,0.952,-2.837,1,0.123,0.105,0.0693,0.812,128.039,"Badri Ki Dulhania (Title Track) - Dev Negi, Neha Kakkar, Monali Thakur, Ikka"
+0.724,0.848,-4.724,1,0.0522,0.0787,0.104,0.781,123.02,"Tamma Tamma Again - Bappi Lahiri, Anuradha Paudwal, Badshah"
+0.626,0.561,-6.644,0,0.0304,0.0482,0.304,0.794,167.916,"Jab Mila Tu - Vishal-Shekhar, Vishal Dadlani"
+0.585,0.698,-6.261,1,0.0392,0.42,0.363,0.621,139.831,"Bin Tere - Vishal-Shekhar, Shafqat Amanat Ali, Sunidhi Chauhan"
+0.747,0.81,-8.352,0,0.0541,0.0688,0.0592,0.937,130.012,"I Hate Luv Storys - Vishal-Shekhar, Vishal Dadlani"
+0.595,0.739,-6.733,1,0.0359,0.0716,0.134,0.722,87.834,"Bahara - Vishal-Shekhar, Shreya Ghoshal, Sona Mohapatra"
+0.678,0.547,-6.89,1,0.0286,0.232,0.0785,0.579,143.892,"Sadka - Vishal-Shekhar, Suraj Jagan, Mahalakshmi Iyer"
+0.62,0.627,-6.187,1,0.0307,0.497,0.133,0.557,82.008,Nazm Nazm - Arko
+0.436,0.696,-4.676,1,0.0322,0.0587,0.145,0.299,79.955,"Bairaagi - Arijit Singh, Samira Koppikar"
+0.555,0.496,-7.175,1,0.0329,0.64,0.0767,0.391,82.229,Nazm Nazm feat. Ayushmann Khurana - Ayushmann Khurrana
+0.813,0.692,-4.718,0,0.0577,0.206,0.124,0.487,102.015,Ban Ja Rani - Guru Randhawa
+0.794,0.781,-4.854,0,0.0536,0.05,0.139,0.836,102.982,"Hawa Hawai 2.0 - Kavita Krishnamurthy, Shashaa Tirupati"
+0.746,0.782,-6.192,0,0.0397,0.277,0.108,0.665,98.976,"Bandook Meri Laila (feat. Raftaar, Sidharth Malhotra) - Ash King, Jigar Saraiya, Raftaar, Sidharth Malhotra"
+0.646,0.536,-9.157,1,0.0318,0.693,0.11,0.112,119.979,"Laagi Na Choote - Arijit Singh, Shreya Ghoshal"
+0.509,0.933,-7.034,1,0.257,0.607,0.0595,0.429,118.871,Hey Ganaraya - Divya Kumar
+0.456,0.668,-7.795,0,0.0373,0.604,0.141,0.263,144.062,"Sun Saathiya - Priya Saraiya, Divya Kumar"
+0.525,0.382,-10.855,1,0.0351,0.855,0.175,0.27,134.872,Chunar - Arijit Singh
+0.552,0.75,-5.215,0,0.039,0.445,0.291,0.4,89.999,Galliyan - Ankit Tiwari
+0.657,0.489,-6.829,0,0.0306,0.713,0.124,0.399,116.0,Banjaara - Mohammed Irfan
+0.354,0.712,-6.109,0,0.0589,0.358,0.274,0.238,93.345,Zaroorat - Mustafa Zahid
+0.322,0.515,-6.908,0,0.0341,0.668,0.0907,0.16,149.912,"Awari - Adnan Dhool, Momina Mustehsan"
+0.572,0.541,-6.45,1,0.0245,0.759,0.111,0.266,87.01,Humdard - Arijit Singh
+0.378,0.393,-7.495,1,0.0275,0.899,0.102,0.373,169.936,"Galliyan (Unplugged) - Shraddha Kapoor, Ankit Tiwari"
+0.726,0.994,-2.433,0,0.0543,0.021,0.222,0.779,129.989,Sadi Gali - Lehmber Hussainpuri
+0.757,0.877,-5.045,1,0.0918,0.138,0.0849,0.704,107.981,"Banno (From Tannu Weds Manu Returns) - Brijesh Shandilya, Swati Sharma"
+0.854,0.787,-4.473,0,0.0912,0.453,0.213,0.955,103.0,Ghani Bawri (From Tanu Weds Manu Returns) - Jyoti Noora
+0.827,0.737,-5.473,0,0.0764,0.0316,0.211,0.873,121.99,"Kar Gayi Chull - Badshah, Amaal Mallik, Fazilpuria, Sukriti Kakar, Neha Kakkar"
+0.488,0.403,-7.004,1,0.0272,0.598,0.434,0.495,131.496,"Bolna - Tanishk Bagchi, Arijit Singh, Asees Kaur"
+0.644,0.87,-4.816,1,0.0394,0.193,0.549,0.702,125.998,"Buddhu Sa Mann - Amaal Mallik, Armaan Malik"
+0.616,0.75,-4.629,1,0.0594,0.172,0.137,0.434,128.051,"Sooraj Dooba Hain - Arijit Singh, Aditi Singh Sharma"
+0.535,0.754,-4.77,0,0.0562,0.458,0.302,0.435,143.862,Tu Hai Ki Nahi - Ankit Tiwari
+0.423,0.458,-6.884,1,0.0315,0.646,0.108,0.151,135.8,Yaara Re - KK
+0.428,0.247,-11.172,0,0.0303,0.972,0.107,0.271,135.754,Tu Hai Ki Nahi (Unplugged) - Tulsi Kumar
+0.495,0.654,-6.639,0,0.0679,0.713,0.165,0.35,123.896,"Ae Dil Hai Mushkil Title Track - Pritam, Arijit Singh"
+0.552,0.769,-4.504,0,0.0465,0.497,0.112,0.702,86.957,"Bulleya - Pritam, Amit Mishra, Shilpa Rao"
+0.476,0.788,-4.821,0,0.0446,0.237,0.106,0.746,90.066,"Channa Mereya - Pritam, Arijit Singh"
+0.818,0.93,-2.982,1,0.247,0.33,0.658,0.831,113.988,"The Breakup Song - Pritam, Arijit Singh, Badshah, Jonita Gandhi, Nakash Aziz"
+0.799,0.929,-3.231,0,0.0668,0.253,0.24,0.952,127.999,"Cutiepie - Pritam, Pardeep Singh Sran, Nakash Aziz"
+0.537,0.251,-9.533,1,0.0276,0.899,0.0857,0.288,89.916,"Channa Mereya - Unplugged - Pritam, Arijit Singh"
+0.489,0.812,-6.31,0,0.18,0.286,0.0768,0.272,140.043,"Aaj Jane Ki Zid Na Karo - Sohail Rana, Shilpa Rao"
+0.682,0.97,-5.332,1,0.0459,0.00591,0.0448,0.959,137.954,"Anjaana Anjaani Ki Kahani - Nikhil D'Souza, Monali Thakur"
+0.618,0.765,-5.492,0,0.0661,0.0111,0.122,0.439,104.004,Hairat - Lucky Ali
+0.556,0.706,-5.709,1,0.0336,0.335,0.137,0.726,80.008,Aas Paas Khuda - Rahat Fateh Ali Khan
+0.7,0.526,-6.246,1,0.0355,0.0981,0.102,0.774,92.015,"Tumse Hi Tumse - Shekhar Ravjiani, Caralisa Monteiro"
+0.644,0.423,-8.702,0,0.0324,0.464,0.11,0.509,131.903,"Tujhe Bhula Diya - Mohit Chauhan, Shekhar Ravjiani, Shruti Pathak"
+0.636,0.785,-6.876,0,0.0279,0.0262,0.297,0.749,125.974,"I Feel Good - Vishal Dadlani, Shilpa Rao"
+0.526,0.639,-6.614,1,0.0322,0.49,0.099,0.214,77.053,"Anjaana Anjaani - Vishal Dadlani, Shilpa Rao"
+0.639,0.471,-8.229,0,0.0376,0.507,0.237,0.369,129.796,"Baby Won't You Tell Me (From Saaho) - Alyssa Mendonsa, Ravi Mishra, Shankar Mahadevan, Shankar-Ehsaan-Loy"
+0.892,0.848,-4.818,1,0.183,0.242,0.0992,0.523,105.013,"Bad Boy (From Saaho) - Badshah, Neeti Mohan"
+0.731,0.668,-6.178,0,0.0638,0.0803,0.0796,0.748,92.242,"Enni Soni (From Saaho) - Guru Randhawa, Tulsi Kumar"
+0.785,0.722,-2.604,0,0.158,0.0363,0.452,0.848,189.857,"Psycho Saiyaan (From Saaho) - Sachet Tandon, Dhvani Bhanushali, Tanishk Bagchi"
+0.296,0.582,-5.18,0,0.0413,0.449,0.319,0.365,168.4,Bekhayali - Sachet Tandon
+0.37,0.467,-6.973,1,0.0411,0.442,0.109,0.162,137.796,Kaise Hua - Vishal Mishra
+0.395,0.397,-7.556,1,0.0368,0.735,0.11,0.303,70.568,Tujhe Kitna Chahne Lage - Arijit Singh
+0.376,0.643,-5.713,1,0.0411,0.558,0.217,0.646,136.228,"Mere Sohneya - Sachet Tandon, Parampara Tandon"
+0.605,0.53,-6.346,1,0.0246,0.821,0.131,0.397,93.95,"Tera Ban Jaunga - Akhil Sachdeva, Tulsi Kumar"
+0.552,0.428,-9.433,1,0.0346,0.607,0.115,0.197,131.745,Yeh Aaina - Shreya Ghoshal
+0.607,0.713,-5.105,1,0.03,0.56,0.101,0.611,124.868,Pehla Pyaar - Armaan Malik
+0.29,0.58,-4.767,0,0.0434,0.491,0.243,0.353,172.396,Bekhayali (Arijit Singh Version) - Arijit Singh
+0.73,0.58,-7.976,1,0.124,0.0399,0.0703,0.55,167.915,Dheere Dheere (From Dheere Dheere) - Yo Yo Honey Singh
+0.77,0.51,-5.469,0,0.192,0.137,0.0346,0.533,188.067,Blue Eyes (From Blue Eyes) - Yo Yo Honey Singh
+0.794,0.878,-7.502,0,0.078,0.00138,0.197,0.352,129.978,"Sunny Sunny (From Yaariyan) - Yo Yo Honey Singh, Neha Kakkar"
+0.51,0.612,-7.629,0,0.0372,0.412,0.156,0.193,150.041,"Chal Wahan Jaate Hain - Arijit Singh, Rashmi Virag, Amaal Mallik"
+0.403,0.56,-7.46,1,0.0362,0.354,0.125,0.168,155.701,Bezubaan - Anupam Roy
+0.653,0.554,-8.156,1,0.0243,0.157,0.172,0.455,99.974,Teri Meri Baatein - Anupam Roy
+0.528,0.449,-6.25,0,0.025,0.785,0.122,0.317,94.058,Tum Hi Ho - Arijit Singh
+0.394,0.641,-6.493,0,0.0312,0.276,0.0958,0.335,81.932,Sunn Raha Hai - Ankit Tiwari
+0.645,0.517,-6.708,0,0.0273,0.522,0.0905,0.259,106.906,"Chahun Main Ya Naa - Palak Muchhal, Arijit Singh"
+0.568,0.508,-7.553,1,0.0333,0.737,0.103,0.685,86.03,"Hum Mar Jayenge - Tulsi Kumar, Arijit Singh"
+0.383,0.422,-8.219,0,0.0288,0.755,0.119,0.247,188.109,"Meri Aashiqui - Palak Muchhal, Arijit Singh"
+0.5,0.588,-7.66,0,0.0362,0.641,0.327,0.35,81.973,"Piya Aaye Na - Tulsi Kumar, KK"
+0.515,0.508,-6.66,0,0.0297,0.633,0.203,0.235,131.731,Bhula Dena - Mustafa Zahid
+0.549,0.437,-7.169,0,0.0263,0.766,0.133,0.236,93.976,Aasan Nahin Yahan - Arijit Singh
+0.482,0.595,-5.336,0,0.0289,0.703,0.136,0.482,82.066,Sunn Raha Hai (Female) - Shreya Ghoshal
+0.515,0.707,-5.467,0,0.0426,0.0357,0.134,0.304,143.752,Milne Hai Mujhse Aayi - Arijit Singh
+0.72,0.651,-6.844,1,0.0346,0.0774,0.11,0.824,128.023,"Wake Up Sid! - Shankar-Ehsaan-Loy, Shankar Mahadevan, Loy Mendonsa"
+0.594,0.548,-7.588,0,0.0267,0.611,0.117,0.374,98.014,"Kya Karoon? - Shankar-Ehsaan-Loy, Clinton Cerejo, Dominique Cerejo, Loy Mendonsa"
+0.639,0.617,-8.897,1,0.0329,0.21,0.099,0.405,134.95,"Aaj Kal Zindagi - Shankar-Ehsaan-Loy, Shankar Mahadevan"
+0.616,0.525,-7.065,1,0.0258,0.401,0.309,0.427,79.976,"Iktara - Amit Trivedi, Kavita Seth, Amitabh Bhattacharya"
+0.638,0.812,-5.622,1,0.0392,0.321,0.282,0.709,139.934,"Life Is Crazy - Shankar-Ehsaan-Loy, Uday Benegal, Shankar Mahadevan, Loy Mendonsa, Alyssa Mendonsa"
+0.556,0.701,-6.537,1,0.0346,0.0374,0.122,0.927,139.981,"Wake Up Sid! - Club Mix - Shankar-Ehsaan-Loy, Shankar Mahadevan"
+0.847,0.543,-7.933,1,0.082,0.00238,0.0888,0.624,101.955,"Achha Lagta Hai (From Aarakshan) - Shankar-Ehsaan-Loy, Mohit Chauhan, Shreya Ghoshal, Neuman Pinto"
+0.426,0.688,-5.25,1,0.0443,0.351,0.0998,0.239,118.586,"Tera Hua (From Loveyatri) - Atif Aslam, Tanishk Bagchi"
+0.359,0.972,-3.452,1,0.109,0.136,0.14,0.595,62.914,"Chogada (From Loveyatri) - Darshan Raval, Asees Kaur, Lijo George-Dj Chetas"
+0.867,0.705,-3.893,0,0.0522,0.00452,0.0868,0.285,94.985,"Akh Lad Jaave (From Loveyatri) - Badshah, Asees Kaur, Jubin Nautiyal, Tanishk Bagchi"
+0.546,0.945,-3.031,1,0.213,0.144,0.0909,0.914,124.524,"Dholida - Udit Narayan, Neha Kakkar, Palak Muchhal, Raja Hasan"
+0.716,0.64,-8.726,1,0.025,0.565,0.127,0.485,105.012,"Dil Diyan Gallan - Vishal-Shekhar, Julius Packiam, Atif Aslam, Irshad Kamil"
+0.481,0.496,-7.421,1,0.0262,0.588,0.132,0.453,89.839,"O Saathi - Atif Aslam, Arko"
+0.799,0.828,-4.846,0,0.0782,0.424,0.145,0.627,105.04,"Dekhte Dekhte (From Batti Gul Meter Chalu) - Atif Aslam, Nusrat Fateh Ali Khan, Rochak Kohli"
+0.523,0.768,-4.953,0,0.0566,0.447,0.0833,0.669,75.03,"Paniyon Sa - Rochak Kohli, Atif Aslam, Tulsi Kumar"
+0.492,0.959,-3.016,1,0.168,0.173,0.216,0.359,120.049,Doorie - Atif Aslam
+0.564,0.745,-3.115,1,0.0365,0.0113,0.175,0.176,134.814,Hum Kis Galli Ja Rahe Hai - Atif Aslam
+0.65,0.458,-8.253,1,0.0235,0.821,0.099,0.35,96.973,Kuch Is Tarah - Atif Aslam
+0.528,0.726,-6.668,1,0.0343,0.414,0.186,0.479,137.948,Mahi Ve - Atif Aslam
+0.517,0.444,-8.355,1,0.0279,0.773,0.111,0.212,78.952,"Tere Liye - Mannan Shaah, Atif Aslam, Akanksha Bhandari"
+0.615,0.507,-6.256,1,0.0273,0.378,0.118,0.265,119.911,"Chalte Chalte (From Mitron) - Atif Aslam, Tanishk Bagchi"
+0.667,0.621,-5.697,1,0.0271,0.47,0.13,0.451,106.032,"Jab Koi Baat - Recreated - Atif Aslam, Shirley Setia, Dj Chetas"
+0.705,0.422,-7.375,1,0.0299,0.793,0.0895,0.482,117.948,"Darasal (From Raabta) - Atif Aslam, Jam8"
+0.321,0.432,-7.777,1,0.0304,0.505,0.278,0.366,150.148,"Hoor - Atif Aslam, Sachin-Jigar"
+0.479,0.699,-5.125,1,0.0343,0.0226,0.248,0.381,115.133,"Younhi - Atif Aslam, Meekal Hassan"
+0.679,0.537,-7.843,1,0.0322,0.844,0.108,0.481,111.979,"Pehli Dafa - Atif Aslam, Shiraz Uppal"
+0.341,0.764,-6.703,1,0.0564,0.0156,0.1,0.514,102.039,Tere Sang Yaara - Remix - Atif Aslam
+0.436,0.554,-6.635,1,0.0341,0.237,0.116,0.396,100.059,Tajdar-E-Haram Coke Studio Season 8 - Atif Aslam
+0.637,0.816,-6.772,1,0.0357,0.0916,0.169,0.536,131.0,"Zindagi Aa Raha Hoon Main - Atif Aslam, Amaal Mallik"
+0.677,0.318,-9.196,1,0.028,0.775,0.118,0.585,104.983,Jeena Jeena (From Badlapur) - Atif Aslam
+0.704,0.772,-4.353,1,0.0436,0.153,0.147,0.778,97.008,"Cheez Badi (From Machine) - Udit Narayan, Neha Kakkar"
+0.721,0.867,-3.652,0,0.0903,0.12,0.123,0.893,102.009,"Coca Cola (From Luka Chuppi) - Tony Kakkar, Neha Kakkar, Young Desi"
+0.796,0.978,-1.266,0,0.0955,0.289,0.346,0.8,129.998,"Aankh Marey (From Simmba) - Neha Kakkar, Mika Singh, Kumar Sanu"
+0.725,0.912,-3.665,0,0.0851,0.155,0.107,0.674,104.055,"Dilbar (From Satyameva Jayate) - Neha Kakkar, Dhvani Bhanushali, Ikka"
+0.811,0.921,-3.152,0,0.117,0.183,0.823,0.756,94.978,"Nikle Currant (From Nikle Currant) - Jassie Gill, Neha Kakkar"
+0.841,0.914,-3.917,0,0.0613,0.0958,0.115,0.651,104.015,"Main Tera Boyfriend (From Raabta) - Arijit Singh, Neha Kakkar, Meet Bros."
+0.562,0.519,-8.744,1,0.0326,0.557,0.172,0.415,122.925,"Agar Tum Saath Ho (From Tamasha) - Alka Yagnik, Arijit Singh"
+0.362,0.378,-11.008,1,0.0329,0.679,0.091,0.575,87.549,"Kun Faya Kun (From Rockstar) - A.R. Rahman, Javed Ali, Mohit Chauhan"
+0.507,0.741,-7.456,0,0.0535,0.414,0.107,0.492,132.903,"Nadaan Parinde (From Rockstar) - A.R. Rahman, Mohit Chauhan"
+0.554,0.882,-5.018,0,0.0488,0.091,0.368,0.627,96.958,Saadda Haq (From Rockstar) - Mohit Chauhan
+0.792,0.63,-6.741,1,0.0682,0.102,0.0758,0.659,100.022,Matargashti (From Tamasha) - Mohit Chauhan
+0.499,0.541,-10.463,1,0.0448,0.744,0.0579,0.381,81.198,"Tu Hai (From Mohenjo Daro) - A.R. Rahman, Sanah Moidutty"
+0.595,0.624,-10.943,0,0.0603,0.0925,0.114,0.647,170.001,Guzarish (From Ghajini) - Javed Ali
+0.604,0.72,-7.276,1,0.0603,0.571,0.12,0.528,130.995,Maahi Ve (From Highway) - A.R. Rahman
+0.678,0.622,-7.988,0,0.0695,0.138,0.122,0.535,100.005,Masakali (From Delhi-6) - Mohit Chauhan
+0.643,0.458,-11.502,0,0.0594,0.327,0.0966,0.73,82.041,Rehna Tu - A.R. Rahman
+0.59,0.414,-12.391,1,0.0346,0.781,0.146,0.292,82.002,"Kaise Mujhe (From Ghajini) - Benny Dayal, Shreya Ghoshal"
+0.686,0.707,-5.906,1,0.0255,0.459,0.343,0.495,99.99,"Tu Meri Dost Hain (From Yuvvraaj) - Benny Dayal, Shreya Ghoshal, A.R. Rahman"
+0.649,0.667,-10.684,1,0.0637,0.267,0.11,0.207,93.019,Behene De (From Raavan) - Karthik
+0.492,0.381,-9.734,1,0.0288,0.741,0.108,0.0965,130.088,"O Sona Tere Liye (From Mom) - A.R. Rahman, Shashaa Tirupati"
+0.694,0.767,-7.039,0,0.0612,0.0511,0.161,0.725,130.982,Patakha Guddi (Male Version) [From Highway] - A.R. Rahman
+0.734,0.355,-10.605,0,0.083,0.296,0.124,0.584,193.922,Genda Phool (From Delhi-6) - Rekha Bhardwaj
+0.581,0.71,-4.961,0,0.0374,0.395,0.137,0.755,111.969,"Sanam Re - Mithoon, Arijit Singh"
+0.54,0.705,-6.731,1,0.0354,0.688,0.297,0.373,104.973,"Gazab Ka Hain Yeh Din - Arijit Singh, Amaal Mallik"
+0.495,0.729,-6.453,0,0.103,0.6,0.0993,0.683,155.892,"Hua Hain Aaj Pehli Baar - Amaal Mallik, Armaan Malik, Palak Muchhal"
+0.468,0.91,-3.057,0,0.051,0.12,0.271,0.694,163.842,"Zara Sa - Pritam, KK"
+0.677,0.837,-4.814,0,0.0646,0.237,0.115,0.829,111.934,"Judai - Pritam, Kamran Ahmed"
+0.649,0.792,-5.576,0,0.0453,0.0623,0.0646,0.733,112.086,"Lambi Judai - Pritam, Richa Sharma"
+0.61,0.888,-4.8,0,0.0435,0.00716,0.0884,0.548,128.024,"Jannat Jahan - Pritam, Rupam Islam"
+0.621,0.859,-4.673,1,0.102,0.546,0.11,0.873,90.047,"Tu Hi Mera - Pritam, Shafqat Amanat Ali"
+0.58,0.846,-3.464,1,0.0523,0.592,0.113,0.774,89.952,"Tera Deedar Hua - Pritam, Anupam Amod, Rahat Fateh Ali Khan"
+0.579,0.712,-6.119,0,0.0308,0.259,0.18,0.486,80.998,"Tujhe Sochta Hoon - Pritam, KK"
+0.602,0.559,-6.203,0,0.0426,0.615,0.131,0.44,122.017,"Rab Ka Shukrana - Pritam, Mohit Chauhan"
+0.545,0.77,-6.102,1,0.0655,0.308,0.167,0.696,159.975,"Jannatein Kahan - Pritam, KK"
+0.577,0.634,-5.597,0,0.0286,0.18,0.186,0.392,80.991,"Sang Hoon Tere - Pritam, Nikhil D'Souza"
+0.702,0.773,-4.79,1,0.0618,0.0469,0.171,0.719,133.888,"Sau Tarah Ke - Pritam, Jonita Gandhi, Amit Mishra"
+0.84,0.884,-3.217,1,0.334,0.427,0.0885,0.972,118.007,"Afghan Jalebi (Film Version) - Pritam, Akhtar Chinnal"
+0.499,0.683,-6.373,0,0.0334,0.703,0.0749,0.295,134.95,"Saware - Pritam, Arijit Singh"
+0.565,0.744,-5.817,1,0.0446,0.403,0.0853,0.415,134.068,"Tu Chahiye - Pritam, Atif Aslam"
+0.528,0.615,-7.118,1,0.0372,0.491,0.104,0.225,123.988,"Zindagi Kuch Toh Bata (Reprise) - Pritam, Jubin Nautiyal"
+0.576,0.591,-7.725,1,0.0332,0.795,0.266,0.478,124.013,"Tu Jo Mila - Pritam, KK"
+0.52,0.484,-8.399,1,0.0327,0.228,0.15,0.421,124.136,"Zindagi Kuch Toh Bata - Pritam, Rahat Fateh Ali Khan, Rekha Bhardwaj"
+0.813,0.554,-9.105,1,0.04,0.0906,0.0629,0.782,103.953,Dil Chahta Hai - Shankar Mahadevan
+0.607,0.526,-9.111,1,0.066,0.0185,0.227,0.341,190.019,"Jaane Kyon Log Pyar - Udit Narayan, Alka Yagnik"
+0.786,0.677,-8.624,1,0.183,0.172,0.0446,0.858,94.985,"Woh Ladki Hai Kahan - Shaan, Kavita Krishnamurthy"
+0.564,0.612,-9.119,1,0.0312,0.551,0.0915,0.13,126.899,Kaisi Hai Ye Rut - Srinivas
+0.749,0.734,-7.058,1,0.0594,0.00166,0.108,0.652,131.975,"Koi Kahe Kehta Rahe - Shankar Mahadevan, Shaan, KK"
+0.638,0.413,-10.56,1,0.0602,0.104,0.107,0.145,96.986,Tanhayee - Sonu Nigam
+0.848,0.925,-6.161,1,0.0767,0.054,0.209,0.69,105.006,"Rang De Basanti - A.R. Rahman, Daler Mehndi, K. S. Chithra"
+0.845,0.686,-6.728,1,0.0781,0.00131,0.129,0.874,146.954,"Masti Ki Paathshala - A.R. Rahman, Naresh Iyer, Mohammed Aslam"
+0.789,0.707,-7.973,1,0.109,0.0237,0.177,0.605,97.015,"Khalbali - A.R. Rahman, Nacim, Mohammed Aslam"
+0.397,0.247,-13.358,0,0.0427,0.755,0.108,0.121,122.119,"Khoon Chala - A.R. Rahman, Mohit Chauhan"
+0.675,0.582,-8.891,1,0.0277,0.661,0.0854,0.538,120.991,"Roobaroo - A.R. Rahman, Naresh Iyer"
+0.613,0.47,-8.441,0,0.0344,0.823,0.138,0.459,102.944,Tera Zikr - Darshan Raval
+0.337,0.963,-2.93,1,0.296,0.284,0.281,0.405,62.481,"Kamariya - Lijo George, Dj Chetas, Darshan Raval"
+0.602,0.554,-6.683,0,0.0332,0.547,0.0871,0.324,139.954,Shab Tum Ho - Darshan Raval
+0.537,0.351,-8.937,1,0.0248,0.839,0.108,0.315,67.018,Baarish Lete Aana - Darshan Raval
+0.745,0.782,-5.68,0,0.0464,0.459,0.108,0.823,101.039,Do Din - Darshan Raval
+0.395,0.393,-9.498,0,0.0317,0.857,0.114,0.274,75.964,Kaash Aisa Hota - Darshan Raval
+0.879,0.487,-9.441,1,0.148,0.337,0.0706,0.338,116.991,"Barso Re - A.R. Rahman, Shreya Ghoshal, Uday Mazumdar"
+0.744,0.7,-7.663,1,0.0375,0.278,0.068,0.867,144.033,"Tere Bina - A.R. Rahman, Chinmayi, Murtuza Khan, Qadir Khan"
+0.732,0.781,-2.98,0,0.0812,0.357,0.2,0.842,91.907,High Rated Gabru (From High Rated Gabru) - Guru Randhawa
+0.787,0.869,-2.965,0,0.0748,0.17,0.207,0.618,95.032,Lahore (From Lahore) - Guru Randhawa
+0.762,0.832,-4.765,0,0.0466,0.126,0.106,0.561,100.017,Made In India (From Made In India) - Guru Randhawa
+0.643,0.847,-3.166,0,0.168,0.229,0.121,0.779,91.718,"Suit (From Suit) - Guru Randhawa, Arjun"
+0.707,0.941,-2.606,0,0.041,0.0173,0.134,0.337,99.013,"Ishare Tere (From Ishare Tere) - Guru Randhawa, Dhvani Bhanushali"
+0.579,0.845,-2.089,0,0.276,0.339,0.0939,0.53,175.657,"Patola (From Patola) (feat. Bohemia) - Guru Randhawa, Bohemia"
+0.816,0.922,-2.963,0,0.149,0.178,0.373,0.887,95.006,"Morni Banke (From Badhaai Ho) - Guru Randhawa, Neha Kakkar"
+0.813,0.692,-4.718,0,0.0577,0.206,0.124,0.487,102.015,Ban Ja Rani (From Tumhari Sulu) - Guru Randhawa
+0.812,0.827,-4.278,0,0.0815,0.0656,0.138,0.609,104.986,Daaru Wargi (From Why Cheat India) - Guru Randhawa
+0.656,0.721,-5.064,1,0.0364,0.277,0.188,0.883,83.95,"Pee Loon - Pritam, Mohit Chauhan"
+0.574,0.841,-4.449,1,0.0948,0.399,0.205,0.927,83.706,"Tum Jo Aaye - Pritam, Rahat Fateh Ali Khan, Tulsi Kumar"
+0.703,0.736,-5.089,1,0.0286,0.6,0.2,0.598,129.963,"I Am In Love - Pritam, Karthik"
+0.778,0.812,-8.561,0,0.046,0.0573,0.243,0.791,99.962,"Jaane Kyun - Vishal-Shekhar, Vishal Dadlani"
+0.746,0.924,-6.057,1,0.0442,0.0169,0.097,0.807,136.051,"Desi Girl - Vishal-Shekhar, Shankar Mahadevan, Sunidhi Chauhan, Vishal Dadlani"
+0.622,0.758,-6.641,1,0.11,0.153,0.0622,0.436,90.951,"Khabar Nahi - Vishal-Shekhar, Shreya Ghoshal, Amanat Ali, Vishal Dadlani, Raja Hasan"
+0.799,0.784,-5.207,0,0.0519,0.11,0.227,0.26,96.953,"Nashe Si Chadh Gayi - Vishal-Shekhar, Arijit Singh, Jaideep Sahni"
+0.704,0.952,-2.331,0,0.0333,0.0408,0.335,0.902,106.99,"Ude Dil Befikre - Vishal-Shekhar, Benny Dayal, Jaideep Sahni"
+0.654,0.668,-6.532,1,0.043,0.591,0.105,0.763,121.996,"Je T'aime - Vishal-Shekhar, Vishal Dadlani, Sunidhi Chauhan, Jaideep Sahni"
+0.822,0.667,-5.592,1,0.0981,0.0997,0.0552,0.61,94.509,"You And Me - Vishal-Shekhar, Nikhil D'Souza, Rachel Varghese, Jaideep Sahni"
+0.806,0.941,-2.298,1,0.141,0.193,0.0601,0.828,94.009,"Khulke Dulke - Vishal-Shekhar, Gippy Grewal, Harshdeep Kaur, Vishal Dadlani, Kunal Ganjawala, Ankur Tewari, Jaideep Sahni"
+0.527,0.833,-5.35,0,0.0681,0.0818,0.0677,0.86,112.562,"Love Is A Dare -Instrumental - Vishal-Shekhar, Rachel Varghese, Sophie Choudry, Jaideep Sahni"
+0.484,0.565,-7.954,1,0.0347,0.479,0.105,0.607,82.653,"Jag Ghoomeya - Vishal-Shekhar, Rahat Fateh Ali Khan, Irshad Kamil"
+0.669,0.866,-6.628,1,0.0499,0.0589,0.0463,0.288,119.992,"Sultan - Vishal-Shekhar, Sukhwinder Singh, Shadab Faridi, Irshad Kamil"
+0.675,0.579,-11.976,1,0.0308,0.369,0.118,0.724,97.01,"Bulleya - Vishal-Shekhar, Papon, Irshad Kamil"
+0.696,0.2,-14.341,0,0.0615,0.771,0.106,0.557,78.964,"Jag Ghoomeya (Female) - Vishal-Shekhar, Neha Bhasin"
+0.683,0.881,-3.943,0,0.0858,0.0211,0.114,0.792,159.942,"Dil Dhadakne Do - Priyanka Chopra, Farhan Akhtar"
+0.734,0.738,-4.606,0,0.0368,0.00147,0.113,0.813,126.007,"Pehli Baar - Sukriti Kakar, Siddharth Mahadevan"
+0.83,0.858,-3.18,0,0.0554,0.134,0.0567,0.949,119.974,"Gallan Goodiyaan - Yashita Sharma, Manish Kumar Tipu, Farhan Akhtar, Shankar Mahadevan, Sukhwinder Singh"
+0.766,0.809,-6.206,1,0.161,0.0227,0.0796,0.803,91.987,"Dhan Te Nan - Sukhwinder Singh, Vishal Dadlani, Robert Bob Omulo"
+0.522,0.478,-10.826,0,0.0277,0.408,0.101,0.576,160.029,Pehli Baar Mohabbat - Mohit Chauhan
+0.375,0.312,-10.656,0,0.031,0.85,0.137,0.22,77.527,"Dhadak Title Track - Ajay Gogavale, Shreya Ghoshal"
+0.485,0.257,-11.287,0,0.0359,0.917,0.0654,0.454,139.781,Pehli Baar - Ajay Gogavale
+0.834,0.788,-7.294,0,0.213,0.359,0.396,0.705,130.032,Zingaat - Ajay-Atul
+0.295,0.406,-9.365,1,0.0344,0.73,0.133,0.21,159.791,Vaara Re - Ajay Gogavale
+0.382,0.398,-10.026,0,0.0373,0.698,0.111,0.313,179.649,Mere Naam Tu - Abhay Jodhpurkar
+0.388,0.532,-6.352,1,0.0414,0.456,0.167,0.444,179.642,"Chaar Kadam - Shaan, Shreya Ghoshal"
+0.676,0.56,-6.124,1,0.0396,0.448,0.0903,0.777,75.011,"Love Is A Waste Of Time - Sonu Nigam, Shreya Ghoshal"
+0.485,0.456,-6.544,1,0.0309,0.898,0.0835,0.424,90.352,"Thodi Der - Farhan Saeed, Shreya Ghoshal"
+0.527,0.525,-8.106,1,0.0337,0.876,0.172,0.257,99.638,"Phir Bhi Tumko Chaahunga - Mithoon, Arijit Singh, Shashaa Tirupati"
+0.603,0.623,-6.881,1,0.0288,0.384,0.111,0.456,122.021,Jab Tak (Redux) - Armaan Malik
+0.405,0.665,-5.498,1,0.0328,0.614,0.525,0.404,81.921,Phir Kabhi - Arijit Singh
+0.531,0.431,-8.937,0,0.037,0.868,0.127,0.19,107.99,Kaun Tujhe - Palak Muchhal
+0.299,0.447,-7.862,0,0.0383,0.858,0.097,0.321,121.723,Jab Tak - Armaan Malik
+0.338,0.459,-8.827,1,0.027,0.533,0.22,0.32,81.203,Besabriyaan - Armaan Malik
+0.371,0.668,-7.269,0,0.0497,0.636,0.294,0.403,87.458,"Gerua - Pritam, Arijit Singh, Antara Mitra"
+0.301,0.581,-7.324,0,0.0422,0.602,0.0757,0.235,132.051,"Janam Janam - Pritam, Arijit Singh, Antara Mitra"
+0.536,0.706,-5.897,1,0.0274,0.5,0.112,0.442,113.972,"Daayre - Pritam, Arijit Singh"
+0.528,0.664,-7.262,1,0.0377,0.226,0.121,0.109,97.893,"Ek Dil Ek Jaan (From Padmaavat) - Shivam Pathak, Sanjay Leela Bhansali"
+0.546,0.805,-7.417,1,0.126,0.397,0.337,0.742,168.022,"Ghoomar - Shreya Ghoshal, Swaroop Khan"
+0.642,0.94,-5.274,1,0.102,0.15,0.0989,0.645,101.252,"Khalibali - Shivam Pathak, Shail Hada"
+0.44,0.704,-5.654,1,0.0514,0.154,0.347,0.493,179.768,Binte Dil - Arijit Singh
+0.478,0.846,-4.799,1,0.146,0.367,0.0803,0.758,149.708,Gori Radha Ne Kado Kaan - Divya Kumar
+0.579,0.713,-7.334,1,0.0318,0.617,0.118,0.635,159.915,"Ishq Bulaava - Vishal-Shekhar, Sanam Puri, Shipra Goyal"
+0.636,0.647,-6.97,0,0.0436,0.422,0.251,0.44,105.914,Gulabi Aankhen - Sanam
+0.763,0.534,-6.12,0,0.0544,0.155,0.147,0.836,100.963,Dil Kya Kare - Sanam
+0.636,0.537,-7.477,0,0.0344,0.59,0.101,0.597,75.968,"Yeh Vaada Raha - Sanam, Mira Mohamed Majid"
+0.638,0.558,-8.747,0,0.0328,0.323,0.0881,0.413,123.922,"Haareya - Ayushmann Khurrana Rock Version - Sachin-Jigar, Ayushmann Khurrana, Priya Saraiya"
+0.675,0.392,-10.11,0,0.037,0.773,0.109,0.534,123.935,"Haareya - Sachin-Jigar, Arijit Singh, Priya Saraiya"
+0.564,0.751,-6.802,0,0.0427,0.1,0.0982,0.373,172.031,"Aaj Phir - Arijit Singh, Samira Koppikar"
+0.46,0.691,-5.204,0,0.0424,0.495,0.12,0.422,155.896,Kabhi Aayine Pe Likha Tujhe - KK
+0.715,0.676,-4.791,0,0.0376,0.333,0.107,0.383,114.969,Hai Dil Ye Mera - Arijit Singh
+0.765,0.89,-4.608,0,0.0824,0.502,0.0423,0.918,99.961,"Dil Chori - Yo Yo Honey Singh, Simar Kaur, Ishers"
+0.831,0.908,-3.317,1,0.101,0.328,0.077,0.734,104.962,"Chhote Chhote Peg - Yo Yo Honey Singh, Neha Kakkar, Navraj Hans"
+0.538,0.646,-7.187,1,0.05,0.308,0.196,0.288,128.045,"Subah Subah - Arijit Singh, Prakriti Kakar, Amaal Mallik"
+0.782,0.827,-4.219,0,0.0627,0.159,0.226,0.498,104.032,"Bom Diggy Diggy - Zack Knight, Jasmin Walia"
+0.772,0.83,-3.981,0,0.0455,0.0357,0.0419,0.753,127.999,"Kaun Nachdi - Guru Randhawa, Neeti Mohan"
+0.559,0.541,-5.525,1,0.0313,0.34,0.102,0.309,83.978,"Tera Yaar Hoon Main - Rochak Kohli, Arijit Singh"
+0.806,0.932,-2.228,0,0.0684,0.24,0.216,0.792,106.021,"Badtameez Dil - Pritam, Benny Dayal, Shefali Alvares"
+0.732,0.944,-4.115,1,0.09,0.209,0.401,0.957,120.02,"Balam Pichkari - Pritam, Vishal Dadlani, Shalmali Kholgade"
+0.593,0.967,-5.767,1,0.0907,0.166,0.105,0.452,131.988,"Ilahi - Pritam, Arijit Singh"
+0.59,0.555,-6.861,1,0.0271,0.481,0.192,0.191,84.027,"Kabira - Pritam, Tochi Raina, Rekha Bhardwaj"
+0.687,0.941,-5.23,0,0.0583,0.0811,0.0697,0.909,138.048,"Dilliwaali Girlfriend - Pritam, Arijit Singh, Sunidhi Chauhan"
+0.302,0.493,-5.038,1,0.0451,0.455,0.134,0.457,88.904,"Subhanallah - Pritam, Sreeram, Shilpa Rao"
+0.611,0.612,-7.978,1,0.114,0.441,0.18,0.898,171.841,"Kabira (Encore) - Pritam, Harshdeep Kaur, Arijit Singh"
+0.568,0.921,-4.558,1,0.0771,0.277,0.151,0.647,131.903,"Ilahi (Reprise) - Pritam, Mohit Chauhan"
+0.767,0.869,-3.381,0,0.0908,0.14,0.221,0.751,98.208,"Suit Suit - Guru Randhawa, Arjun"
+0.321,0.432,-7.777,1,0.0304,0.505,0.278,0.366,150.148,Hoor - Atif Aslam
+0.676,0.935,-3.499,0,0.0892,0.00917,0.097,0.802,144.944,"Oh Ho Ho Ho (Remix) - Sukhbir, Ikka"
+0.561,0.56,-6.03,1,0.0325,0.573,0.12,0.212,120.008,Sun Le Re - Papon
+0.431,0.813,-6.939,0,0.233,0.2,0.115,0.269,95.026,"Shambhu Sutaya - Sachin-Jigar, Shankar Mahadevan, Vishal Dadlani"
+0.615,0.573,-8.264,1,0.0491,0.0286,0.11,0.172,101.92,"Bezubaan - Sachin-Jigar, Mohit Chauhan, Priya Saraiya, Deane Sequeira, Tanvi Shah"
+0.366,0.506,-8.772,0,0.0377,0.188,0.0681,0.16,62.055,"Duhaai - Sachin-Jigar, Madhav Krishna"
+0.682,0.704,-9.445,1,0.227,0.163,0.297,0.618,139.985,"Sadda Dil Vi Tu (Ga Ga Ga Ganpati) - Sachin-Jigar, Hard Kaur"
+0.596,0.406,-8.676,0,0.0261,0.733,0.0851,0.251,101.915,Sunn Le Zara - Arnab Dutta
+0.796,0.978,-1.266,0,0.0955,0.289,0.346,0.8,129.999,"Aankh Marey (From Simmba) - Neha Kakkar, Mika Singh, Kumar Sanu, Tanishk Bagchi"
+0.649,0.716,-3.936,1,0.0384,0.268,0.603,0.639,86.949,"Tere Bin (From Simmba) - Rahat Fateh Ali Khan, Asees Kaur, Tanishk Bagchi"
+0.971,0.785,-5.117,0,0.058,0.211,0.0492,0.913,114.014,"Aao Kabhi Haveli Pe - Badshah, Nikhita Gandhi, Sachin-Jigar"
+0.527,0.622,-8.172,0,0.0842,0.7,0.126,0.672,173.709,"Nazar Na Lag Jaaye - Ash King, Sachin-Jigar"
+0.825,0.666,-4.847,0,0.0554,0.143,0.237,0.763,96.987,"Kamariya - Aastha Gill, Sachin Sanghvi, Jigar Saraiya, Divya Kumar"
+0.573,0.746,-6.108,0,0.0513,0.142,0.277,0.508,105.064,"Aashiq Banaya Aapne - Himesh Reshammiya, Neha Kakkar"
+0.566,0.634,-5.551,1,0.0443,0.145,0.0814,0.36,143.89,Abhi Abhi - KK
+0.703,0.695,-5.518,1,0.118,0.654,0.103,0.683,92.003,"Abhi Kuch Dino Se - Pritam, Mohit Chauhan"
+0.386,0.815,-3.395,1,0.0417,0.707,0.159,0.349,124.293,"Teri Jhuki Nazar - Pritam, Shafqat Amanat Ali"
+0.467,0.859,-2.946,0,0.0409,0.661,0.0522,0.673,89.842,"Mat Aazma Re - Pritam, KK"
+0.608,0.55,-7.86,0,0.031,0.708,0.0833,0.514,81.987,"Hum Jee Lenge - Mustafa Zahid, Roxen Band"
+0.598,0.887,-6.992,1,0.0802,0.0284,0.166,0.704,159.977,"Ok Jaanu Title Track - A.R. Rahman, Srinidhi Venkatesh"
+0.717,0.416,-9.875,0,0.0303,0.635,0.0976,0.381,100.026,"Enna Sona - A.R. Rahman, Arijit Singh"
+0.721,0.65,-6.95,0,0.135,0.0115,0.34,0.392,130.487,"The Humma Song - A.R. Rahman, Badshah, Tanishk Bagchi, Shashaa Tirupati, Jubin Nautiyal"
+0.548,0.274,-10.02,1,0.0269,0.887,0.16,0.225,94.974,"Humsafar (Alia's Version) - Alia Bhatt, Akhil Sachdeva"
+0.803,0.791,-5.79,1,0.0889,0.195,0.353,0.549,136.025,"Chitta Ve - Babu Haabi, Shahid Mallya, Bhanu Prtap"
+0.641,0.374,-6.731,1,0.0284,0.723,0.135,0.265,120.035,Ikk Kudi - Shahid Mallya
+0.909,0.906,-3.701,1,0.206,0.09,0.287,0.625,121.996,"Ud-daa Punjab - Vishal Dadlani, Amit Trivedi"
+0.62,0.502,-8.375,1,0.0303,0.841,0.1,0.302,119.959,Ikk Kudi - Reprised Version - Diljit Dosanjh
+0.605,0.74,-6.312,1,0.0311,0.53,0.266,0.367,119.953,"Ikk Kudi - Club Mix - Alia Bhatt, Diljit Dosanjh"
+0.814,0.791,-5.057,1,0.0934,0.25,0.124,0.902,130.941,"Patakha Guddi - Sultana, Jyoti Nooran"
+0.604,0.72,-7.276,1,0.0603,0.571,0.12,0.528,130.995,Maahi Ve - A.R. Rahman
+0.845,0.659,-6.348,1,0.0373,0.159,0.0782,0.547,125.965,Naina Da Kya Kasoor - Amit Trivedi
+0.678,0.612,-5.891,0,0.0254,0.176,0.458,0.388,129.967,Wo Ladki - Arijit Singh
+0.565,0.527,-5.035,1,0.0252,0.148,0.103,0.231,91.989,"Daryaa - Ammy Virk, Shahid Mallya"
+0.449,0.421,-8.92,1,0.0272,0.387,0.11,0.203,163.747,Yeh Fitoor Mera - Arijit Singh
+0.623,0.924,-4.481,0,0.142,0.00764,0.557,0.506,135.968,Laila Main Laila - Pawni Pandey
+0.486,0.898,-3.791,1,0.171,0.309,0.0886,0.648,88.335,"Zaalima - Arijit Singh, Harshdeep Kaur"
+0.666,0.833,-7.48,0,0.0451,0.0141,0.111,0.541,99.007,Ziddi Dil - Vishal Dadlani
+0.634,0.378,-8.367,1,0.0295,0.566,0.0919,0.527,123.949,Sukoon Mila - Arijit Singh
+0.682,0.667,-7.53,0,0.229,0.505,0.204,0.764,89.936,Jaguar - Sukh-E Muzical Doctorz
+0.755,0.839,-2.26,0,0.129,0.294,0.107,0.592,82.041,Laembadgini - Diljit Dosanjh
+0.677,0.318,-9.196,1,0.028,0.775,0.118,0.585,104.983,Jeena Jeena (From Badlapur) - Atif Aslam
+0.547,0.705,-7.873,0,0.0356,0.157,0.109,0.384,140.008,Jee Karda (From Badlapur) - Divya Kumar
+0.601,0.814,-7.778,0,0.0637,0.397,0.283,0.694,140.063,Jee Karda (Rock Version) - Divya Kumar
+0.343,0.373,-9.363,0,0.0607,0.745,0.14,0.252,92.957,"Judaai (From Badlapur) - Rekha Bhardwaj, Arijit Singh"
+0.912,0.677,-4.212,1,0.0713,0.193,0.0939,0.94,115.061,"Tere Naal Nachna (From Nawabzaade) - Badshah, Sunanda Sharma"
+0.45,0.574,-6.394,1,0.066,0.269,0.103,0.319,167.832,"Piya O Re Piya (From Tere Naal Love Ho Gaya) - Atif Aslam, Shreya Ghoshal"
+0.766,0.942,-6.757,1,0.0439,0.0348,0.0973,0.797,127.033,"Mujhse Shaadi Karogi - Sonu Nigam, Udit Narayan, Sunidhi Chauhan"
+0.473,0.942,-4.709,1,0.0747,0.204,0.132,0.793,90.998,"Aaja Soniye - Sonu Nigam, Alka Yagnik"
+0.798,0.766,-7.154,0,0.131,0.224,0.0916,0.768,135.008,"Jeene Ke Hain Chaar Din - Sonu Nigam, Sunidhi Chauhan"
+0.708,0.946,-4.519,1,0.0434,0.128,0.559,0.477,130.99,"Besharmi Ki Height - Benny Dayal, Shalmali Kholgade"
+0.411,0.729,-4.738,0,0.0983,0.132,0.177,0.498,96.053,Palat - Tera Hero Idhar Hai - Arijit Singh
+0.714,0.892,-5.342,0,0.0516,0.00145,0.0462,0.899,134.997,"Tum Hi Ho Bandhu (From Cocktail) - Neeraj Shridhar, Kavita Seth"
+0.703,0.786,-6.779,0,0.0483,0.198,0.101,0.647,93.987,"Daaru Desi (From Cocktail) - Benny Dayal, Shalmali Kholgade"
+0.485,0.546,-8.21,1,0.0303,0.0735,0.0444,0.406,149.938,"Yaariyaan - Mohan Kannan, Shilpa Rao"
+0.809,0.831,-4.043,0,0.06,0.0162,0.0534,0.83,112.016,"Second Hand Jawaani (From Cocktail) - Miss Pooja, Neha Kakkar, Nakash Aziz"
+0.614,0.759,-6.763,1,0.107,0.145,0.3,0.361,166.096,"Jugni (from Cocktail) - Arif Lohar, Harshdeep Kaur"
+0.643,0.256,-9.758,1,0.0252,0.729,0.0994,0.444,94.999,"Samjhawan (Unplugged by Alia Bhatt) [From Humpty Sharma Ki Dulhania] - Jawad Ahmad, Shaarib Toshi, Alia Bhatt"
+0.847,0.938,-4.615,1,0.0974,0.149,0.107,0.786,130.02,"Saturday Saturday - Shaarib Toshi, Badshah, Indeep Bakshi, Akriti Kakkar"
+0.65,0.482,-8.667,1,0.0281,0.293,0.0811,0.517,106.994,"Samjhawan - Jawad Ahmad, Shaarib Toshi, Arijit Singh, Shreya Ghoshal"
+0.753,0.99,-3.319,0,0.0578,0.0195,0.116,0.711,139.99,"Lucky Tu Lucky Me - Sachin-Jigar, Benny Dayal, Anushka Manchanda, Varun Dhawan"
+0.758,0.921,-4.29,1,0.0628,0.0154,0.0853,0.916,132.935,"D Se Dance - Sachin-Jigar, Vishal Dadlani, Shalmali Kholgade, Anushka Manchanda"
+0.532,0.529,-8.402,1,0.0352,0.334,0.078,0.295,81.989,"Kal Ho Naa Ho - Shankar-Ehsaan-Loy, Sonu Nigam"
+0.815,0.833,-6.117,0,0.0769,0.0297,0.33,0.563,99.989,"Maahi Ve - Shankar-Ehsaan-Loy, Sadhana Sargam, Sujata Bhattacharya, Udit Narayan, Sonu Nigam"
+0.902,0.772,-8.29,0,0.0383,0.0452,0.12,0.808,131.992,"It's the Time to Disco - Shankar-Ehsaan-Loy, Vasundhara Das, KK, Shaan, Loy Mendonsa"
+0.674,0.661,-7.973,1,0.0618,0.128,0.283,0.458,95.967,"Kuch To Hua Hai - Shankar-Ehsaan-Loy, Alka Yagnik, Shaan"
+0.677,0.942,-6.105,0,0.16,0.124,0.0819,0.598,173.991,"Pretty Woman - Shankar-Ehsaan-Loy, Shankar Mahadevan, Ravi Rags Khote"
+0.471,0.329,-11.958,0,0.0312,0.78,0.117,0.144,126.107,"Sapna Jahan (From Brothers) - Ajay-Atul, Sonu Nigam, Neeti Mohan"
+0.552,0.668,-9.111,1,0.0473,0.421,0.159,0.152,95.032,"Brothers Anthem - Ajay-Atul, Vishal Dadlani"
+0.624,0.551,-6.871,0,0.033,0.285,0.234,0.229,149.97,"Sanam Teri Kasam (From Sanam Teri Kasam) - Ankit Tiwari, Palak Muchhal"
+0.706,0.715,-4.143,1,0.0311,0.439,0.0919,0.226,118.971,Tera Chehra (From Sanam Teri Kasam) - Arijit Singh
+0.539,0.551,-7.351,1,0.0361,0.651,0.124,0.556,75.899,Tere Sang Yaara - Atif Aslam
+0.411,0.277,-8.844,1,0.0305,0.903,0.209,0.345,143.768,"Dekha Hazaro Dafaa - Arijit Singh, Palak Muchhal"
+0.525,0.46,-8.594,0,0.0246,0.826,0.139,0.33,98.007,"Tere Liye - Madan Mohan, Lata Mangeshkar, Roop Kumar Rathod, Javed Akhtar"
+0.484,0.788,-7.625,0,0.0565,0.69,0.0939,0.741,171.973,"Main Yahaan Hoon - Madan Mohan, Udit Narayan, Javed Akhtar"
+0.563,0.803,-6.651,0,0.117,0.589,0.0735,0.792,82.909,"Aisa Des Hai Mera - Madan Mohan, Lata Mangeshkar, Udit Narayan, Javed Akhtar"
+0.48,0.753,-7.33,0,0.0454,0.347,0.315,0.462,90.027,"Yeh Hum Aa Gaye Hain Kahaan - Madan Mohan, Lata Mangeshkar, Udit Narayan, Javed Akhtar"
+0.247,0.556,-7.514,1,0.0376,0.635,0.146,0.371,168.823,"Do Pal - Madan Mohan, Lata Mangeshkar, Sonu Nigam, Javed Akhtar"
+0.568,0.856,-5.51,0,0.114,0.648,0.191,0.84,98.444,"Lodi - Madan Mohan, Lata Mangeshkar, Udit Narayan, Javed Akhtar"
+0.567,0.577,-6.197,0,0.0264,0.628,0.132,0.217,101.99,"Muskurane - Romantic - Jeet Gannguli, Arijit Singh"
+0.29,0.399,-8.309,0,0.0339,0.811,0.116,0.152,172.061,"Muskurane - Unplugged - Jeet Gannguli, Mohammed Irfan"
+0.679,0.921,-4.416,0,0.0362,0.0799,0.0636,0.755,131.084,"Nachange Saari Raat - Meet Bros., Neeraj Shridhar, Tulsi Kumar"
+0.543,0.682,-4.869,0,0.0319,0.492,0.1,0.316,143.628,"Mujhko Barsaat Bana Lo - Armaan Malik, Rashmi Virag"
+0.524,0.726,-7.0,0,0.0321,0.0807,0.0813,0.302,97.992,"Junooniyat - Meet Bros Anjjan, Falak Shabir"
+0.743,0.921,-5.007,0,0.14,0.29,0.0402,0.674,113.284,"Nagada Sang Dhol - Shreya Ghoshal, Osman Mir"
+0.58,0.863,-1.675,0,0.0411,0.0725,0.27,0.497,146.978,Lahu Munh Lag Gaya - Shail Hada
+0.553,0.556,-7.04,0,0.0347,0.224,0.0915,0.219,147.84,Ang Laga De - Aditi Paul
+0.504,0.671,-5.792,1,0.0271,0.0343,0.309,0.447,105.957,Laal Ishq - Arijit Singh
+0.531,0.865,-3.389,0,0.0536,0.481,0.22,0.582,79.97,"Deewani Mastani (From Bajirao Mastani) - Shreya Ghoshal, Ganesh Chandanshive, Mujtaba Aziz Naza, Shadab Faridi, Altamash Faridi, Farhan Sabri"
+0.507,0.932,-4.501,0,0.0762,0.0592,0.302,0.311,114.961,Malhari (From Bajirao Mastani) - Vishal Dadlani
+0.806,0.56,-8.185,1,0.121,0.36,0.235,0.624,109.918,"Emosanal Attyachaar (Brass Band Version) - Band Master Rangeela, Rasila"
+0.701,0.774,-6.994,1,0.0339,0.149,0.326,0.766,124.034,Pardesi - Tochi Raina
+0.602,0.67,-8.325,0,0.109,0.186,0.199,0.429,159.996,Nayan Tarse - Amit Trivedi
+0.678,0.771,-2.849,1,0.0266,0.0277,0.149,0.462,105.976,Zindagi Do Pal Ki - KK
+0.486,0.382,-6.183,1,0.0286,0.613,0.149,0.164,125.918,Dil Kyun Yeh Mera - KK
+0.455,0.939,-5.536,1,0.0807,0.015,0.336,0.522,132.018,"Fire - Rajesh Roshan, Vishal Dadlani, Anirudh Bhola, Anushka Manchanda"
+0.747,0.921,-3.851,1,0.0859,0.0956,0.0367,0.671,129.945,"Mit Jaaye Gham (Dum Maaro Dum) - Pritam, Anushka Manchanda"
+0.594,0.757,-5.381,1,0.0504,0.606,0.251,0.597,127.894,"Te Amo (Duet) - Pritam, Ash King, Sunidhi Chauhan"
+0.393,0.609,-5.954,1,0.0415,0.0558,0.107,0.347,71.377,"Jiyein Kyun - Pritam, Papon"
+0.64,0.754,-4.873,0,0.0392,0.395,0.209,0.355,94.989,"Mitti Di Khushboo - Rochak Kohli, Ayushmann Khurrana"
+0.65,0.551,-6.906,1,0.0274,0.405,0.219,0.294,102.934,"Ve Maahi - Arijit Singh, Asees Kaur"
+0.816,0.922,-2.963,0,0.149,0.178,0.373,0.887,95.006,"Morni Banke - Guru Randhawa, Neha Kakkar"
+0.491,0.566,-4.668,0,0.0283,0.545,0.179,0.322,81.992,"Musafir (From Sweetiee Weds Nri) - Palash Muchhal, Atif Aslam, Palak Muchhal"
+0.458,0.34,-14.309,1,0.0333,0.774,0.0799,0.516,151.979,"Pehla Nasha - Udit Narayan, Sadhana Sargam"
+0.46,0.616,-6.606,0,0.0343,0.718,0.142,0.487,144.854,"Dua-Saware - Salim Merchant, Neeti Mohan"
+0.254,0.573,-6.772,1,0.0374,0.488,0.127,0.132,78.931,"Tose Naina-Tum Jo Aaye - Armaan Malik, Tulsi Kumar"
+0.624,0.489,-7.695,1,0.0265,0.507,0.142,0.306,104.955,"Tu Jo Mila-Raabta - Shirley Setia, Jubin Nautiyal"
+0.381,0.504,-7.653,0,0.0362,0.766,0.0799,0.122,78.029,Sunn Raha Hai-Rozana - Shreya Ghoshal
+0.573,0.71,-6.295,0,0.0759,0.385,0.0732,0.614,169.985,"Ehna Akhiyan-Yaar Mangiyasi-Nachda - Harshdeep Kaur, Shahid Mallya"
+0.589,0.602,-7.647,1,0.0489,0.275,0.115,0.274,153.883,"Gazab Ka Hai Din-Bawara Mann - Shaan, Sukriti Kakar"
+0.572,0.366,-8.675,0,0.03,0.911,0.102,0.355,134.023,"Main Agar Kahoon-Bol Do Na Zara - Armaan Malik, Jonita Gandhi, Rashmi Virag"
+0.752,0.532,-6.589,1,0.0317,0.00131,0.282,0.853,125.979,"Sooraj Dooba Hain-Subha Hone Na De - Nakash Aziz, Aditi Singh Sharma"
+0.623,0.325,-9.342,1,0.0334,0.498,0.0805,0.528,125.077,"Agar Tum Saath Ho-Maahi Ve - Jubin Nautiyal, Prakriti Kakar"
+0.518,0.534,-8.068,1,0.0322,0.654,0.0887,0.32,153.969,"Soch Na Sake-Sab Tera - Neeti Mohan, Harrdy Sandhu"
+0.546,0.856,-6.045,1,0.252,0.309,0.164,0.548,90.191,"Pee Loon-Ishq Sufiyana - Neha Kakkar, Sreerama Chandra"
+0.592,0.6,-8.087,1,0.0343,0.551,0.128,0.493,80.082,"Roke Na Ruke-Mast Magan - Tulsi Kumar, Dev Negi"
+0.666,0.857,-4.118,0,0.0541,0.181,0.243,0.653,93.02,"Ambarsariya-Suit Suit - Kanika Kapoor, Guru Randhawa"
+0.329,0.265,-10.195,1,0.0304,0.916,0.107,0.142,181.53,"Kaise Mujhe-Tum Ho - Palak Muchhal, Aditya Narayan"
+0.721,0.664,-6.084,0,0.0471,0.426,0.0883,0.76,139.953,"Sun Zara-Tujhe Bhula Diya - Shaan, Shruti Pathak"
+0.594,0.376,-9.528,1,0.0272,0.611,0.119,0.333,96.41,Mera Mann-Yahin Hoon Main - Ayushmann Khurrana
+0.448,0.571,-6.05,0,0.0323,0.744,0.194,0.48,94.032,"Tum Hi Ho-Rehnuma - Shreya Ghoshal, Armaan Malik"
+0.64,0.85,-3.766,0,0.0919,0.297,0.112,0.614,96.95,"Dilbar-Ishare Tere-Tere Te - Neha Kakkar, Guru Randhawa"
+0.556,0.534,-8.322,0,0.0357,0.65,0.122,0.296,83.006,"Tumhe Apna Banane Ka-Chand Chhupa - Neeti Mohan, Vishal Dadlani"
+0.261,0.475,-8.889,0,0.0413,0.773,0.0926,0.273,75.045,"Galliyan-Dil Mein Ho Tum - Jonita Gandhi, Salim Merchant"
+0.654,0.329,-11.989,0,0.0315,0.821,0.0909,0.518,111.907,"Sanam Re-Phir Mohabbat - Tulsi Kumar, Benny Dayal"
+0.659,0.547,-7.233,1,0.0516,0.21,0.0762,0.389,123.937,"Ik Vaari Aa-Nadaan Parindey-Tum Ho Toh - Shirley Setia, Jubin Nautiyal, Abhijit Vaghani"
+0.595,0.451,-8.05,1,0.0267,0.711,0.118,0.238,110.925,"Darkhaast-Aankhon Mein Teri - Sukriti Kakar, Armaan Malik"
+0.516,0.48,-9.557,1,0.0274,0.442,0.139,0.445,86.982,"Kahin Toh Hogi Woh-Teri Aahatein - Neeti Mohan, Shekhar Ravjiani, Abhijit Vaghani"
+0.332,0.391,-9.857,1,0.0336,0.874,0.0973,0.184,86.963,"Tera Yaar Hoon Main-Yaar Mod Do - Neha Kakkar, Millind Gaba"
+0.579,0.335,-10.893,1,0.0309,0.722,0.119,0.331,137.456,"Main Rahoon Ya Na Rahoon-Dil Kyun Yeh Mera - Rashmi Virag, Prakriti Kakar, Amaal Mallik"
+0.546,0.403,-8.095,1,0.0274,0.722,0.135,0.382,127.96,"Aaoge Jab Tum-Jag Soona Soona - Nandini Srikar, Akhil Sachdeva"
+0.485,0.734,-8.081,0,0.0674,0.43,0.0947,0.368,155.732,"Kabhi Jo Badal Barse-Dil De Diya Hai - Tulsi Kumar, Mohammed Irfan"
+0.245,0.513,-8.539,0,0.0449,0.737,0.153,0.286,76.088,"Humnava Mere-Baarish - Aditya Narayan, Dhvani Bhanushali"
+0.385,0.477,-8.656,1,0.0489,0.591,0.123,0.337,91.037,"O Saathi-Humsafar - Nikhita Gandhi, Ash King"
+0.418,0.563,-8.227,1,0.0483,0.629,0.186,0.388,86.77,"Janib-Sajde Kiye Hain - Harshdeep Kaur, Javed Ali"
+0.596,0.442,-8.66,0,0.0321,0.81,0.111,0.234,124.891,"Teri Meri-Phir Se - Amruta Fadnavis, B Praak, Rashmi Virag"
+0.699,0.815,-4.282,1,0.0584,0.0217,0.0466,0.737,127.985,"Abcd -Yaariyan - Pritam, Benny Dayal, Shefali Alvares, Yo Yo Honey Singh"
+0.443,0.447,-7.895,0,0.0356,0.768,0.2,0.215,127.395,"Baarish - Mohammed Irfan, Gajendra Verma"
+0.794,0.878,-7.502,0,0.078,0.00138,0.197,0.352,129.978,"Sunny Sunny - Yo Yo Honey Singh, Neha Kakkar"
+0.483,0.781,-5.926,1,0.0445,0.349,0.126,0.801,83.782,Allah Waariyan - Shafqat Amanat Ali
+0.658,0.563,-8.91,0,0.0317,0.494,0.378,0.582,119.98,Suno- Na Sangemarmar - Arijit Singh
+0.825,0.559,-7.907,1,0.0722,0.0212,0.205,0.207,105.957,"Swag Se Swagat - Vishal-Shekhar, Julius Packiam, Vishal Dadlani, Neha Bhasin, Irshad Kamil"
+0.778,0.599,-4.758,1,0.032,0.0705,0.59,0.949,116.951,"Dil Dhadakne Do - Joi Barua, Suraj Jagan"
+0.79,0.848,-7.798,1,0.0508,0.364,0.148,0.641,127.034,Ik Junoon (Paint It Red) - Vishal Dadlani
+0.517,0.565,-10.184,1,0.0441,0.721,0.0997,0.69,169.952,"Khaabon Ke Parinday - Alyssa Mendonsa, Mohit Chauhan"
+0.701,0.681,-6.442,1,0.0466,0.134,0.064,0.81,122.539,"Senorita - Farhan Akhtar, Hrithik Roshan, Abhay Deol, Maria Del Mar Fernandez"
+0.637,0.675,-7.817,1,0.0296,0.0483,0.125,0.21,110.946,Der Lagi Lekin - Shankar Mahadevan
+0.345,0.624,-8.89,0,0.0399,0.578,0.101,0.514,81.456,Toh Zinda Ho Tum - Farhan Akhtar
+0.855,0.553,-6.52,1,0.0331,0.19,0.0942,0.874,124.922,"Sooraj Ki Baahon Mein - Dominique Cerejo, Clinton Cerejo, Loy Mendonsa"
+0.712,0.621,-6.374,1,0.0278,0.116,0.142,0.779,101.981,Ik Kahani - Gajendra Verma
+0.718,0.573,-7.309,0,0.0451,0.458,0.0953,0.686,180.043,Tera Ghata - Gajendra Verma
+0.696,0.53,-6.281,0,0.0384,0.56,0.134,0.495,97.921,"Ik Vaari - Ayushmann Khurrana, Apaarshakti Khurrana"
+0.512,0.752,-4.857,0,0.0534,0.305,0.708,0.428,127.965,"Ik Vaari Aa - Pritam, Arijit Singh"
+0.636,0.701,-6.825,1,0.0363,0.414,0.106,0.352,113.886,"Raabta (Title Track) - Pritam, Arijit Singh, Nikhita Gandhi"
+0.436,0.719,-5.957,0,0.0852,0.271,0.132,0.709,171.858,"Lambiyaan Si Judaiyaan - Pritam, Arijit Singh, Shadab, Altamash Faridi"
+0.841,0.914,-3.917,0,0.0613,0.0958,0.115,0.651,104.014,"Main Tera Boyfriend - Pritam, Arijit Singh, Neha Kakkar, Meet Bros."
+0.705,0.422,-7.375,1,0.0299,0.793,0.0895,0.484,117.949,"Darasal - Pritam, Atif Aslam"
+0.707,0.941,-2.606,0,0.041,0.0173,0.134,0.337,99.013,"Ishare Tere - Guru Randhawa, Dhvani Bhanushali"
+0.726,0.77,-6.479,0,0.0536,0.296,0.0557,0.887,94.961,"Dhunki - Sohail Sen, Neha Bhasin, Irshad Kamil"
+0.798,0.861,-7.612,1,0.037,0.218,0.094,0.845,109.016,"Choomantar - Sohail Sen, Benny Dayal, Aditi Singh Sharma, Irshad Kamil"
+0.846,0.634,-7.753,0,0.0432,0.122,0.146,0.944,104.964,"Isq Risk - Sohail Sen, Rahat Fateh Ali Khan, Irshad Kamil"
+0.703,0.883,-7.85,0,0.045,0.47,0.31,0.839,135.05,"Do Dhaari Talwaar - Sohail Sen, Shahid Mallya, Shweta Pandit, Irshad Kamil"
+0.466,0.778,-7.174,0,0.115,0.382,0.0359,0.596,99.981,"Dil Haara - Vishal-Shekhar, Sukhwinder Singh, Piyush Mishra"
+0.716,0.68,-6.006,1,0.0357,0.22,0.083,0.673,116.012,"Tashan Mein - Vishal-Shekhar, Vishal, Saleem, Piyush Mishra"
+0.718,0.697,-6.474,0,0.135,0.634,0.0563,0.62,143.907,"Falak Tak - Vishal-Shekhar, Udit Narayan, Mahalakshmi Iyer, Kausar Munir"
+0.637,0.825,-6.612,1,0.0816,0.352,0.389,0.836,92.029,"Rishte Naate - Rahat Fateh Ali Khan, Suzanne D'Mello"
+0.654,0.671,-6.026,1,0.0807,0.359,0.0656,0.76,90.063,"I Love You - Pritam, Ash King, Clinton Cerejo"
+0.401,0.517,-6.618,0,0.0481,0.0661,0.202,0.471,128.451,"Teri Meri - Rahat Fateh Ali Khan, Shreya Ghoshal"
+0.483,0.798,-4.623,1,0.0972,0.176,0.24,0.691,83.684,Teri Ore (From Singh Is Kinng) - Rahat Fateh Ali Khan
+0.77,0.824,-6.491,0,0.0851,0.485,0.318,0.49,172.006,"Proper Patola - Badshah, Diljit Dosanjh, Aastha Gill"
+0.679,0.688,-5.522,1,0.0293,0.0773,0.704,0.424,127.951,"Tu Meri - Vishal-Shekhar, Vishal Dadlani"
+0.727,0.714,-4.494,1,0.0872,0.0209,0.153,0.618,164.003,Amplifier - Imran Khan
+0.534,0.959,-3.67,0,0.361,0.449,0.354,0.751,187.576,"First Class - Pritam, Arijit Singh, Neeti Mohan"
+0.891,0.913,-4.453,1,0.149,0.394,0.373,0.772,130.045,"High Heels - Jaz Dhami, Yo Yo Honey Singh"
+0.727,0.9,-4.529,1,0.0452,0.0805,0.154,0.505,131.97,"Subha Hone Na De - Pritam, Mika Singh, Shefali Alvares"
+0.772,0.649,-6.411,1,0.143,0.0724,0.0761,0.824,90.072,Na Ja - Pav Dharia
+0.849,0.592,-4.309,0,0.102,0.632,0.108,0.652,89.966,Kya Baat Ay - Harrdy Sandhu
+0.829,0.654,-6.26,0,0.0685,0.0942,0.2,0.335,98.012,"Tareefan - QARAN, Badshah"
+0.906,0.699,-5.526,1,0.0462,0.13,0.178,0.938,129.946,"Gal Mitthi Mitthi - Amit Trivedi, Tochi Raina"
+0.959,0.606,-5.754,1,0.219,0.345,0.126,0.783,110.0,"Dj Waley Babu (feat. Aastha Gill) - Badshah, Aastha Gill"
+0.703,0.678,-8.644,0,0.0417,0.0478,0.496,0.694,120.051,"Bang Bang - Vishal-Shekhar, Benny Dayal, Neeti Mohan"
+0.685,0.841,-2.932,0,0.0942,0.118,0.26,0.59,97.929,High Rated Gabru (From Nawabzaade) - Guru Randhawa
+0.835,0.718,-6.614,1,0.0816,0.363,0.0625,0.64,139.968,"London Thumakda (From Queen) - Labh Janjua, Sonu Kakkar, Neha Kakkar"
+0.602,0.874,-8.529,0,0.0377,0.521,0.113,0.691,103.198,"Tip Tip Barsa Paani - Alka Yagnik, Udit Narayan"
+0.443,0.674,-6.302,0,0.0358,0.424,0.121,0.219,139.906,"Toota Jo Kabhi Tara - Atif Aslam, Sumedha Karmahe"
+0.697,0.438,-8.411,1,0.0289,0.397,0.293,0.58,117.954,Ajab Si - KK
+0.533,0.436,-7.521,0,0.0276,0.234,0.46,0.371,146.868,"Main Agar Kahoon - Sonu Nigam, Shreya Ghoshal"
+0.563,0.71,-6.212,1,0.0592,0.0663,0.105,0.262,133.873,"Jag Soona Soona Lage - Rahat Fateh Ali Khan, Richa Sharma"
+0.8,0.881,-6.077,1,0.0502,0.127,0.0976,0.81,107.998,"Dhoom Taana - Shreya Ghoshal, Abhijeet"
+0.552,0.598,-6.052,0,0.0362,0.479,0.0806,0.354,135.951,Dastaan - E - Om Shanti Om - Shaan
+0.603,0.708,-7.047,0,0.0379,0.000173,0.158,0.611,105.046,"Zinda - Shankar-Ehsaan-Loy, Siddharth Mahadevan"
+0.696,0.506,-8.26,1,0.0334,0.537,0.0832,0.612,129.977,"Bhaag Milkha Bhaag - Shankar-Ehsaan-Loy, Arif Lohar"
+0.802,0.763,-6.456,1,0.0336,0.22,0.128,0.789,120.078,"Slow Motion Angreza - Shankar-Ehsaan-Loy, Sukhwinder Singh, Loy Mendonsa, Shankar Mahadevan"
+0.726,0.53,-8.485,1,0.0531,0.498,0.14,0.594,126.06,"O Rangrez - Shankar-Ehsaan-Loy, Shreya Ghoshal, Javed Bashir, Yusuf Mohammed, Vajid Ali"
+0.678,0.721,-6.231,1,0.0449,0.0331,0.347,0.323,129.976,"Bhaag Milkha Bhaag - Rock Version - Shankar-Ehsaan-Loy, Siddharth Mahadevan"
+0.806,0.909,-5.295,1,0.0658,0.0267,0.057,0.653,119.996,"Maston Ka Jhund - Shankar-Ehsaan-Loy, Divya Kumar"
+0.545,0.473,-8.259,0,0.0312,0.284,0.0871,0.195,130.0,"Bol Do Na Zara - Armaan Malik, Rashmi Virag"
+0.56,0.768,-4.77,1,0.0655,0.494,0.0844,0.289,155.765,"Itni Si Baat Hain - Pritam, Arijit Singh, Antara Mitra"
+0.76,0.83,-6.868,0,0.28,0.639,0.109,0.907,93.401,"Ladki Kyon - Jatin-Lalit, Alka Yagnik, Shaan, Prasoon Joshi"
+0.839,0.935,-5.823,1,0.0806,0.253,0.12,0.946,106.997,"Chak De - Jatin-Lalit, Sonu Nigam, Sadhana Sargam, Prasoon Joshi"
+0.465,0.682,-8.124,1,0.0512,0.381,0.0801,0.583,164.01,"Hum Tum - Jatin-Lalit, Alka Yagnik, Babul Supriyo, Prasoon Joshi"
+0.762,0.878,-4.999,1,0.083,0.153,0.071,0.951,100.998,"Gore Gore - Jatin-Lalit, Alka Yagnik, Prasoon Joshi"
+0.804,0.748,-14.163,0,0.0616,0.11,0.0998,0.699,131.989,"Radha - Vishal-Shekhar, Shreya Ghoshal, Udit Narayan, Vishal Dadlani, Shekhar Ravjiani"
+0.711,0.295,-12.377,0,0.0334,0.534,0.0782,0.694,135.041,"Ishq Wala Love - Vishal-Shekhar, Salim Merchant, Neeti Mohan, Shekhar Ravjiani"
+0.705,0.913,-6.709,1,0.0788,0.0137,0.329,0.955,145.948,"Drama Queen - Vishal-Shekhar, Shreya Ghoshal, Vishal Dadlani"
+0.365,0.649,-5.295,0,0.0408,0.151,0.121,0.453,78.398,"Manchala - Vishal-Shekhar, Shafqat Amanat Ali, Nupur Pant"
+0.623,0.595,-6.342,1,0.0331,0.361,0.353,0.418,78.029,"Zehnaseeb - Vishal-Shekhar, Chinmayi Sripada, Shekhar Ravjiani"
+0.629,0.837,-6.179,1,0.103,0.15,0.0578,0.803,104.973,"Haanikaarak Bapu - Sarwar Khan, Sartaz Khan Barna"
+0.875,0.743,-5.674,1,0.0479,0.0768,0.0651,0.612,105.953,Dhaakad - Raftaar
+0.618,0.867,-5.1,0,0.139,0.239,0.0559,0.665,178.017,Dangal - Daler Mehndi
+0.501,0.445,-8.432,1,0.0337,0.772,0.117,0.388,80.086,Naina - Arijit Singh
+0.755,0.894,-8.544,0,0.0993,0.54,0.141,0.799,104.985,"Chak De India - Salim–Sulaiman, Sukhwinder Singh, Marianne D'Cruz, Jaideep Sahni"
+0.649,0.788,-9.607,1,0.0373,0.0717,0.0936,0.869,104.999,"Badal Pe Paon Hai - Salim–Sulaiman, Hema Sardesai, Jaideep Sahni"
+0.636,0.41,-10.372,1,0.0277,0.941,0.125,0.516,115.003,"Maula Mere Lele Meri Jaan - Salim–Sulaiman, Krishna, Jaideep Sahni"
+0.591,0.531,-8.677,0,0.0472,0.629,0.499,0.478,80.971,"Meherbaan - Vishal-Shekhar, Ash King, Shilpa Rao, Shekhar Ravjiani"
+0.41,0.455,-8.071,1,0.0316,0.731,0.185,0.361,90.993,"Meherbani - Arko, Jubin Nautiyal"
+0.638,0.471,-7.025,0,0.0258,0.825,0.0993,0.381,99.017,"Mera Pyar Tera Pyar - Jeet Gannguli, Arijit Singh"
+0.495,0.498,-7.023,0,0.0337,0.701,0.0706,0.32,133.992,"Pal - Javed-Mohsin, Arijit Singh, Shreya Ghoshal"
+0.477,0.925,-5.856,0,0.186,0.0808,0.0482,0.575,105.112,Tattad Tattad - Aditya Narayan
+0.721,0.867,-5.429,0,0.225,0.0885,0.0372,0.87,170.091,"One Two Three Four (Get On The Dance Floor) - Vishal Dadlani, Hamsika Iyer"
+0.679,0.421,-9.13,0,0.0344,0.685,0.244,0.65,81.012,"Titli - Chinmayi, Gopi Sundar"
+0.419,0.679,-8.052,1,0.0384,0.493,0.119,0.368,169.911,"Tera Rastaa Chhodoon Na - Amitabh Bhattacharya, Anusha Mani"
+0.84,0.743,-7.66,1,0.0599,0.0307,0.421,0.826,106.996,"Kashmir Main Tu Kanyakumari - Sunidhi Chauhan, Arijit Singh, Neeti Mohan"
+0.685,0.841,-2.932,0,0.0942,0.118,0.26,0.59,97.929,High Rated Gabru - Guru Randhawa
+0.912,0.677,-4.212,1,0.0713,0.193,0.0939,0.94,115.061,"Tere Naal Nachna - Badshah, Sunanda Sharma"
+0.659,0.774,-7.014,1,0.0372,0.606,0.185,0.883,82.995,"Mast Magan (From 2 States) - Arijit Singh, Chinmayi"
+0.799,0.609,-6.729,1,0.0448,0.0158,0.0642,0.758,130.031,"Offo - Aditi Singh Sharma, Amitabh Bhattacharya"
+0.705,0.74,-5.82,1,0.0505,0.0365,0.487,0.928,106.953,Locha-E-Ulfat - Benny Dayal
+0.567,0.546,-8.316,1,0.0405,0.301,0.129,0.401,113.806,"Chaandaniya - Mohan Kannan, Yashita Sharma"
+0.71,0.801,-4.845,1,0.0896,0.0728,0.0744,0.845,145.102,"The Jawaani Song - Vishal-Shekhar, Vishal Dadlani, Payal Dev, Kishore Kumar"
+0.846,0.786,-4.607,1,0.0519,0.131,0.0835,0.523,106.023,"The Hook Up Song - Vishal-Shekhar, Neha Kakkar, Shekhar Ravjiani"
+0.558,0.565,-7.561,0,0.0286,0.58,0.125,0.394,135.986,Jo Bhi Main - Mohit Chauhan
+0.647,0.656,-8.632,1,0.0354,0.657,0.343,0.453,119.965,Phir Se Ud Chala - Mohit Chauhan
+0.362,0.378,-11.008,1,0.0329,0.679,0.091,0.575,87.549,"Kun Faya Kun - A.R. Rahman, Javed Ali, Mohit Chauhan"
+0.507,0.741,-7.456,0,0.0535,0.414,0.107,0.492,132.903,"Nadaan Parinde - A.R. Rahman, Mohit Chauhan"
+0.356,0.47,-8.929,1,0.0278,0.518,0.0807,0.167,93.895,"Tum Ho - Mohit Chauhan, Suzanne D'Mello"
+0.554,0.882,-5.018,0,0.0488,0.091,0.368,0.627,96.958,Saadda Haq - Mohit Chauhan
+0.402,0.718,-5.407,1,0.045,0.53,0.454,0.673,84.261,"Lag Ja Gale (From Bhoomi) - Rahat Fateh Ali Khan, Sachin-Jigar"
+0.518,0.541,-4.541,1,0.0282,0.424,0.0962,0.164,127.876,Aye Dil Bata - Arijit Singh
+0.566,0.862,-6.02,0,0.105,0.0246,0.103,0.455,147.974,"Baaki Baatein Peene Baad (Shots) (feat. Badshah) - Arjun Kanungo, Badshah"
+0.702,0.635,-7.337,0,0.0343,0.437,0.106,0.507,133.017,"Baat Ban Jaye - Siddharth Basrur, Priya Saraiya, Sachin-Jigar"
+0.417,0.433,-8.958,1,0.0415,0.0726,0.123,0.207,169.92,"Qaafirana - Arijit Singh, Nikhita Gandhi"
+0.481,0.392,-8.2,1,0.0246,0.478,0.122,0.257,91.796,Jaan 'Nisaar (Arijit) - Arijit Singh
+0.574,0.38,-8.779,1,0.0296,0.663,0.122,0.342,92.001,Jaan 'Nisaar (Asees) - Asees Kaur
+0.776,0.795,-5.454,1,0.0485,0.121,0.138,0.569,117.989,"Challa - A.R. Rahman, Rabbi Shergil, Gulzar"
+0.543,0.665,-8.295,1,0.0623,0.505,0.144,0.495,81.97,"Saans - A.R. Rahman, Shreya Ghoshal, Mohit Chauhan, Gulzar"
+0.731,0.9,-7.66,0,0.0466,0.126,0.0722,0.963,143.991,"Ishq Shava - A.R. Rahman, Raghav, Shilpa Rao, Gulzar"
+0.712,0.718,-8.286,0,0.0444,0.049,0.128,0.59,106.012,"Jiya Re - A.R. Rahman, Neeti Mohan, Gulzar"
+0.588,0.698,-6.736,1,0.0418,0.546,0.0785,0.291,98.944,"Jab Tak Hai Jaan - A.R. Rahman, Javed Ali, Shakthisree Gopalan, Gulzar"
+0.568,0.592,-5.427,0,0.0447,0.393,0.0965,0.327,173.841,Dil Aaj Kal - KK
+0.514,0.688,-4.898,1,0.118,0.384,0.126,0.55,180.11,Yaari Yaari - Ram Sampath
+0.738,0.798,-6.663,1,0.0334,0.32,0.31,0.793,123.01,"Tum Mile - Pritam, Neeraj Shridhar"
+0.59,0.859,-5.005,0,0.0416,0.633,0.286,0.634,149.966,"Dil Ibaadat - Pritam, KK"
+0.705,0.744,-5.416,0,0.0341,0.582,0.2,0.706,115.959,"Tu Hi Haqeeqat - Pritam, Javed Ali, Irshan Ashraf, Shadab"
+0.407,0.487,-5.475,0,0.0332,0.668,0.121,0.352,114.251,Tu Jo Hain (From Mr. X) - Ankit Tiwari
+0.56,0.604,-8.732,1,0.0866,0.315,0.176,0.75,84.784,Tujh Mein Rab Dikhta Hai - Roop Kumar Rathod
+0.778,0.737,-7.073,1,0.195,0.178,0.0632,0.9,125.031,Phir Milenge Chalte Chalte - Sonu Nigam
+0.566,0.499,-8.473,0,0.037,0.776,0.113,0.457,159.992,Khudaaya - Shekhar Ravjiani
+0.554,0.578,-7.718,0,0.0379,0.536,0.11,0.55,137.921,"Duaa - Nandini Srikar, Arijit Singh"
+0.671,0.6,-5.129,1,0.031,0.648,0.315,0.689,105.049,"Koi Vi Nahi - Shirley Setia, Gurnazar"
+0.687,0.419,-11.195,0,0.0512,0.687,0.0742,0.555,125.008,"Kuchh Khaas - Mohit Chauhan, Neha Bhasin"
+0.739,0.664,-10.582,1,0.0338,0.539,0.0856,0.878,106.021,"Hai Junoon - Pritam, KK, Sandeep Shrivastava"
+0.314,0.475,-12.38,1,0.0838,0.779,0.34,0.312,78.992,"Tune Jo Na Kaha - Pritam, Mohit Chauhan, Sandeep Shrivastava"
+0.789,0.583,-10.975,0,0.0536,0.285,0.062,0.885,100.019,"Rehnaa Hai Tere Dil Mein - Sonu Nigam, Kavita Krishnamurthy"
+0.466,0.563,-6.668,1,0.0341,0.13,0.203,0.233,92.049,Tere Dil Mein - Armaan Malik
+0.601,0.802,-6.537,0,0.0372,0.158,0.314,0.345,109.989,"Teri Meri Kahaani - Arijit Singh, Palak Muchhal"
+0.374,0.692,-5.466,1,0.0836,0.412,0.117,0.557,175.964,"Coffee Peetey Peetey - Dev Negi, Paroma Dasgupta"
+0.523,0.557,-7.799,1,0.0293,0.813,0.0958,0.196,111.766,"Darkhaast (feat. Arijit Singh, Sunidhi Chauhan) - Mithoon, Arijit Singh, Sunidhi Chauhan"
+0.64,0.754,-4.873,0,0.0392,0.395,0.209,0.355,94.989,Mitti Di Khushboo (From Mitti Di Khushboo) - Ayushmann Khurrana
+0.693,0.538,-7.665,1,0.0278,0.355,0.108,0.378,95.993,Chan Kitthan (From Chan Kitthan) - Ayushmann Khurrana
+0.696,0.53,-6.281,0,0.0384,0.56,0.134,0.495,97.921,Ik Vaari (From Ik Vaari) - Ayushmann Khurrana
+0.739,0.836,-5.155,1,0.0325,0.195,0.197,0.677,109.011,"Saadi Galli Aaja (From Nautanki Saala !) - Ayushmann Khurrana, Neeti Mohan"
+0.633,0.558,-6.572,1,0.0275,0.0839,0.0982,0.501,110.012,Yahin Hoon Main (From Yahin Hoon Main) - Ayushmann Khurrana
+0.594,0.376,-9.528,1,0.0272,0.611,0.119,0.333,96.41,Mera Mann-Yahin Hoon Main (From T-Series Mixtape) - Ayushmann Khurrana
+0.586,0.504,-6.283,1,0.0347,0.507,0.149,0.36,78.015,"Nain Na Jodeen (From Badhaai Ho) - Ayushmann Khurrana, Neha Kakkar, Rochak Kohli"
+0.567,0.51,-8.649,1,0.0261,0.56,0.103,0.209,94.901,Dil-E-Nadaan (From Hawaizaada) - Ayushmann Khurrana
+0.645,0.434,-5.854,0,0.0282,0.708,0.073,0.707,136.055,Tu Hi Tu (From Nautanki Saala !) - Ayushmann Khurrana
+0.772,0.401,-8.453,1,0.057,0.811,0.13,0.574,124.959,"Turram Khan (From Hawaizaada) - Papon, Ayushmann Khurrana, Monali Thakur"
+0.511,0.622,-6.184,1,0.0435,0.0662,0.0465,0.387,85.349,Ishq Sufiyana (Male) - Kamal Khan
+0.657,0.581,-8.108,1,0.0298,0.699,0.116,0.323,118.037,"Raabta - Pritam, Arijit Singh"
+0.939,0.933,-2.688,1,0.0819,0.235,0.0293,0.708,122.994,"Pungi - Pritam, Mika Singh, Amitabh Bhattacharya, Nakash Aziz, Javed Jaffrey"
+0.52,0.716,-6.582,0,0.051,0.612,0.11,0.593,122.977,Dooriyan - Mohit Chauhan
+0.824,0.757,-5.047,1,0.0744,0.368,0.146,0.97,100.029,"Chor Bazari - Neeraj Shridhar, Sunidhi Chauhan"
+0.585,0.688,-4.553,1,0.0722,0.551,0.121,0.814,85.871,Ajj Din Chadheya - Rahat Fateh Ali Khan
+0.799,0.542,-7.142,1,0.0308,0.0858,0.126,0.673,107.993,"Adhoore - Vishal Dadlani, Alyssa Mendonsa"
+0.746,0.812,-6.034,1,0.0383,0.252,0.218,0.967,96.012,Ajab Leher - Neeraj Shridhar
+0.667,0.588,-6.018,0,0.0387,0.519,0.103,0.583,136.024,"Dhoop Ke Makaan - Shekhar Ravjiani, Sunidhi Chauhan"
+0.642,0.862,-5.289,1,0.0644,0.0346,0.537,0.566,125.053,"Dooriyan Hain Zaroori - Monica Dogra, Vishal Dadlani"
+0.619,0.859,-5.588,1,0.135,0.0163,0.276,0.682,125.084,"Adhoore (Remix By Abhijit Vaghani) - Vishal Dadlani, Alyssa Mendonsa"
+0.435,0.658,-5.949,0,0.0368,0.699,0.125,0.524,77.17,"Duniyaa (From Luka Chuppi) - Akhil, Dhvani Bhanushali, Abhijit Vaghani, Bob"
+0.739,0.644,-5.881,0,0.0503,0.103,0.189,0.315,94.996,"Photo (From Luka Chuppi) - Karan Sehmbi, Tanishk Bagchi, Goldboy"
+0.77,0.963,-2.129,0,0.0804,0.11,0.153,0.858,97.998,"Tu Laung Main Elaachi (From Luka Chuppi) - Tulsi Kumar, Tanishk Bagchi, Gurmeet Singh"
+0.81,0.846,-4.451,1,0.0435,0.0454,0.374,0.885,123.966,"Poster Lagwa Do (From Luka Chuppi) - Mika Singh, Sunanda Sharma, Nikhita Gandhi, White Noise Studios, Dilip Sen- Sameer Sen"
+0.722,0.867,-3.652,0,0.0904,0.121,0.123,0.893,102.009,"Coca Cola (From Luka Chuppi) - Tony Kakkar, Neha Kakkar, Young Desi, Tanishk Bagchi"
+0.581,0.645,-8.131,0,0.0311,0.369,0.089,0.315,89.982,Ek Mulaqat - Altamash Faridi
+0.789,0.685,-8.669,0,0.212,0.414,0.172,0.697,147.864,"Proper Patola (From Proper Patola) (feat. Badshah) - Diljit Dosanjh, Badshah"
+0.436,0.721,-5.956,0,0.0852,0.273,0.132,0.73,171.851,"Lambiyaan Si Judaiyaan (From Raabta) - Arijit Singh, Shadab, Altamash Faridi"
+0.559,0.541,-5.525,1,0.0313,0.34,0.102,0.309,83.978,Tera Yaar Hoon Main (From Sonu Ke Titu Ki Sweety) - Arijit Singh
+0.572,0.541,-6.45,1,0.0245,0.759,0.111,0.266,87.01,Humdard (From Ek Villain) - Arijit Singh
+0.568,0.55,-6.172,0,0.0262,0.728,0.251,0.436,110.079,Lo Maan Liya (From Raaz Reboot) - Arijit Singh
+0.524,0.575,-6.571,0,0.0294,0.397,0.269,0.206,89.915,Baaton Ko Teri (From All Is Well) - Arijit Singh
+0.645,0.517,-6.708,0,0.0273,0.522,0.0905,0.259,106.906,"Chahun Main Ya Naa (From Aashiqui 2) - Palak Muchhal, Arijit Singh"
+0.514,0.588,-5.163,0,0.0297,0.713,0.172,0.235,139.986,Yaad Hai Na (From Raaz Reboot) - Arijit Singh
+0.515,0.707,-5.467,0,0.0426,0.0357,0.134,0.304,143.752,Milne Hai Mujhse Aayi (From Aashiqui 2) - Arijit Singh
+0.503,0.381,-9.31,1,0.0283,0.722,0.154,0.263,80.658,Roke Na Ruke Naina (From Badrinath Ki Dulhania) - Arijit Singh
+0.657,0.581,-8.108,1,0.0298,0.7,0.116,0.32,118.038,Raabta (From Agent Vinod) - Arijit Singh
+0.568,0.508,-7.553,1,0.0333,0.737,0.103,0.685,86.03,"Hum Mar Jayenge (From Aashiqui 2) - Tulsi Kumar, Arijit Singh"
+0.563,0.689,-4.294,0,0.0262,0.294,0.288,0.321,101.94,Uska Hi Banana (From 1920 Evil Returns) - Arijit Singh
+0.559,0.768,-4.77,1,0.0656,0.494,0.0844,0.289,155.777,"Itni Si Baat Hain (From Azhar) - Arijit Singh, Antara Mitra"
+0.554,0.578,-7.718,0,0.0379,0.536,0.11,0.55,137.921,"Duaa (From Shanghai) - Nandini Srikar, Arijit Singh"
+0.715,0.676,-4.791,0,0.0376,0.333,0.107,0.383,114.969,Hai Dil Ye Mera (From Hate Story 2) - Arijit Singh
+0.499,0.683,-6.373,0,0.0333,0.702,0.0749,0.297,134.958,Saware (From Phantom) - Arijit Singh
+0.394,0.592,-6.398,1,0.203,0.847,0.125,0.401,81.098,"Wafa Ne Bewafai (From Teraa Surroor) - Arijit Singh, Neeti Mohan, Suzanne D'Mello"
+0.329,0.45,-6.312,0,0.0405,0.594,0.13,0.284,80.095,Main Dhoondne Ko Zamaane Mein (From Heartless) - Arijit Singh
+0.646,0.536,-9.157,1,0.0318,0.693,0.11,0.112,119.979,"Laagi Na Choote (From A Gentleman) - Arijit Singh, Shreya Ghoshal"
+0.523,0.561,-6.474,1,0.0329,0.426,0.109,0.31,139.885,Tose Naina (From Mickey Virus) - Arijit Singh
+0.791,0.558,-7.155,0,0.0661,0.276,0.0859,0.872,95.077,Kabhi Kabhi Aditi - Rashid Ali
+0.668,0.746,-7.592,1,0.0603,0.00335,0.0773,0.485,119.696,"Pappu Can't Dance - Benny Dayal, Naresh Iyer, Satish Chakravarthy, Aslam, Blaaze, Tanvi, Bhargavi"
+0.789,0.45,-9.61,1,0.0277,0.581,0.0736,0.878,99.991,Jaane Tu Mera Kya Hai (Aditi) - Runa
+0.751,0.54,-7.942,1,0.0753,0.103,0.102,0.9,110.015,"Nazrein Milaana Nazrein Churaana - Benny Dayal, Satish Chakravarthy, Sayonara, Darshana, Svetha, Bhargavi, Anupama"
+0.61,0.492,-7.55,1,0.0261,0.334,0.0979,0.165,90.984,"Kahin To - Rashid Ali, Vasundhara Das"
+0.595,0.624,-10.943,0,0.0603,0.0925,0.114,0.647,170.001,Guzarish - Javed Ali
+0.59,0.414,-12.391,1,0.0346,0.781,0.146,0.292,82.002,"Kaise Mujhe - Benny Dayal, Shreya Ghoshal"
+0.667,0.25,-15.148,1,0.0273,0.763,0.146,0.599,97.521,"Piyu Bole - Sonu Nigam, Shreya Ghoshal"
+0.729,0.314,-13.662,1,0.0629,0.529,0.0718,0.754,119.871,Kaisi Paheli Zindagani - Sunidhi Chauhan
+0.673,0.714,-8.042,1,0.039,0.111,0.0858,0.78,112.941,"Raanjhanaa - A.R. Rahman, Jaswinder Singh, Shiraz Uppal"
+0.619,0.88,-4.549,0,0.0535,0.0173,0.166,0.392,129.969,"Raat Bhar - Arijit Singh, Shreya Ghoshal"
+0.586,0.833,-3.046,1,0.069,0.469,0.312,0.593,87.892,"Rabba Main Toh Mar Gaya Oye - Pritam, Rahat Fateh Ali Khan"
+0.53,0.557,-6.373,1,0.031,0.648,0.123,0.359,86.983,"Love Me Thoda Aur - Pritam, Arijit Singh"
+0.502,0.612,-4.787,1,0.0269,0.204,0.117,0.419,82.021,"Meri Maa - Pritam, KK"
+0.463,0.84,-4.035,0,0.0955,0.736,0.351,0.385,153.941,"Maahi - Shaarib Toshi, Toshi Sabri"
+0.637,0.591,-6.117,1,0.0342,0.504,0.135,0.48,119.956,"Soniyo - Raju Singh, Sonu Nigam, Shreya Ghoshal"
+0.832,0.477,-6.949,1,0.0481,0.00725,0.205,0.844,101.997,She Move It Like - Badshah
+0.505,0.667,-5.797,1,0.0323,0.597,0.213,0.516,151.728,"Soch Na Sake - Amaal Mallik, Arijit Singh, Tulsi Kumar"
+0.699,0.665,-6.921,0,0.0483,0.0207,0.376,0.558,105.053,"Dil Cheez Tujhe Dedi - Ankit Tiwari, Arijit Singh"
+0.472,0.554,-8.12,1,0.0325,0.493,0.161,0.288,135.882,"Tu Bhoola Jise - Amaal Mallik, KK"
+0.488,0.649,-6.16,1,0.0344,0.571,0.208,0.549,76.111,Soch Na Sake - Arijit Singh
+0.72,0.753,-5.453,1,0.131,0.0378,0.0707,0.619,128.016,"India Waale - Neeti Mohan, Vishal Dadlani, KK, Shankar Mahadevan"
+0.676,0.671,-6.271,1,0.0526,0.568,0.0885,0.572,81.046,"Manwa Laage - Shreya Ghoshal, Arijit Singh"
+0.599,0.671,-9.666,1,0.0339,0.644,0.256,0.736,149.954,"Mar Jaava (From Fashion) - Salim Merchant, Abhishek Bachchan"
+0.632,0.721,-7.616,0,0.0345,0.204,0.102,0.808,145.938,"Mar Jayian Romantic (From Vicky Donor) - Vishal Dadlani, Sunidhi Chauhan"
+0.792,0.63,-6.741,1,0.0682,0.102,0.0758,0.659,100.022,Matargashti - Mohit Chauhan
+0.562,0.519,-8.744,1,0.0326,0.557,0.172,0.415,122.925,"Agar Tum Saath Ho - Alka Yagnik, Arijit Singh"
+0.541,0.512,-10.203,1,0.0291,0.74,0.162,0.203,120.036,Safarnama - Lucky Ali
+0.158,0.496,-10.965,1,0.034,0.358,0.117,0.107,157.827,"Tu Koi Aur Hai - A.R. Rahman, Alma Ferovic, Arjun Chandy"
+0.602,0.622,-5.61,0,0.0293,0.102,0.138,0.218,110.016,Main Hoon Hero Tera (Armaan Malik Version) - Armaan Malik
+0.55,0.488,-8.059,1,0.0284,0.718,0.126,0.301,136.025,"Main Rahoon Ya Na Rahoon - Amaal Mallik, Armaan Malik, Rashmi Virag"
+0.666,0.919,-5.389,0,0.0661,0.0491,0.531,0.644,102.756,"Ek Do Teen (From Baaghi 2) - Shreya Ghoshal, Parry G, Sandeep Shirodkar, Laxmikant–Pyarelal"
+0.29,0.698,-4.033,1,0.0364,0.578,0.0989,0.221,83.996,"Alvida (From Life in a Metro) - Pritam, KK"
+0.41,0.664,-5.859,1,0.0372,0.516,0.102,0.325,101.545,"In Dino (From Life In A Metro) - Pritam, Soham"
+0.53,0.795,-6.547,1,0.0314,0.17,0.157,0.546,150.009,"O Meri Jaan - Pritam, KK"
+0.311,0.638,-5.948,1,0.042,0.333,0.119,0.173,168.198,"Alvida - Reprise - Pritam, James"
+0.809,0.509,-4.856,1,0.0391,0.031,0.175,0.921,95.993,"Main Aisa Kyon Hoon - Shankar-Ehsaan-Loy, Shaan"
+0.815,0.714,-5.483,0,0.0337,0.743,0.0929,0.814,102.011,"Agar Main Kahoon - Shankar-Ehsaan-Loy, Alka Yagnik, Udit Narayan"
+0.441,0.4,-10.206,1,0.034,0.418,0.0853,0.194,159.433,"Kitni Baatein - Shankar-Ehsaan-Loy, Sadhana Sargam, Hariharan"
+0.64,0.743,-6.612,1,0.0524,0.0616,0.25,0.727,94.972,"Lakshya - Shankar-Ehsaan-Loy, Shankar Mahadevan"
+0.793,0.575,-7.363,1,0.0374,0.616,0.107,0.748,112.011,"Kandhon Se Milte Hain Kandhe - Shankar-Ehsaan-Loy, Shankar Mahadevan, Sonu Nigam, Hariharan, Roop Kumar Rathod, Vijay Prakash, Kunal Ganjawala"
+0.378,0.362,-10.673,1,0.0412,0.424,0.271,0.168,159.813,"Kitni Baatein - Reprise - Shankar-Ehsaan-Loy, Hariharan, Sadhana Sargam"
+0.386,0.558,-4.525,1,0.045,0.709,0.121,0.514,187.27,"Afreen Afreen - Rahat Fateh Ali Khan, Momina Mustehsan"
+0.912,0.782,-5.95,0,0.0785,0.109,0.0632,0.769,132.009,"Daddy Mummy - Devi Sri Prasad, M. M. Manasi"
+0.541,0.676,-3.893,0,0.153,0.442,0.159,0.845,90.037,"Daru Badnaam - Param Singh, Kamal Kahlon, Pratik Studio"
+0.555,0.488,-8.067,1,0.0366,0.698,0.112,0.297,146.773,"Dil Ke Paas - Arijit Singh, Tulsi Kumar, Neuman Pinto"
+0.607,0.658,-7.152,0,0.0305,0.573,0.109,0.383,81.003,"Dil Mein Chhupa Loonga - Meet Bros., Armaan Malik, Tulsi Kumar"
+0.451,0.494,-8.897,0,0.0315,0.849,0.0842,0.207,141.004,"Dil Ke Paas (Unplugged) - Armaan Malik, Tulsi Kumar"
+0.697,0.796,-3.685,0,0.0742,0.155,0.162,0.312,85.002,Do You Know - Diljit Dosanjh
+0.499,0.541,-10.463,1,0.0448,0.744,0.0579,0.381,81.198,"Tu Hai - A.R. Rahman, Sanah Moidutty"
+0.311,0.538,-4.551,0,0.0263,0.573,0.113,0.165,137.177,"Tu Har Lamha - Bobby-Imran, Arijit Singh"
+0.527,0.521,-6.837,0,0.0272,0.631,0.158,0.266,143.892,"Khamoshiyan - Jeet Gannguli, Arijit Singh"
+0.544,0.649,-9.785,0,0.0371,0.451,0.0778,0.415,80.035,"Suno Na - Vishal-Shekhar, Shaan"
+0.349,0.596,-9.313,1,0.0364,0.177,0.336,0.329,120.009,"Tu Aashiqui Hai - Vishal-Shekhar, KK"
+0.573,0.457,-10.561,0,0.0338,0.216,0.159,0.431,127.815,"Jab Kabhi - Vishal-Shekhar, KK, Mahalaxmi Iyer"
+0.636,0.872,-10.873,0,0.0552,0.0978,0.0971,0.55,135.019,"Humein Tumse Pyaar Kitna - R. D. Burman, Vishal-Shekhar, Amit Kumar, KK"
+0.729,0.67,-8.607,0,0.0381,0.0673,0.145,0.851,126.966,"Ruk Ruk - Vishal-Shekhar, Amit Kumar, Vishal Dadlani"
+0.677,0.686,-10.819,0,0.0639,0.0749,0.0492,0.793,139.879,"Tera Muskurana - Vishal-Shekhar, Shaan"
+0.608,0.665,-4.244,1,0.0482,0.606,0.0832,0.704,93.919,"Shaayraana - Pritam, Arijit Singh"
+0.612,0.915,-3.519,1,0.187,0.143,0.0869,0.738,129.035,"Tu Hi Toh Hai - Version, 2 - Pritam, Kunal Ganjawala"
+0.438,0.376,-6.292,0,0.0329,0.904,0.0924,0.344,173.944,"Ashq Na Ho - Pritam, Arijit Singh"
+0.608,0.985,-3.293,0,0.14,0.177,0.715,0.349,139.986,"Blame the Night - Pritam, Arijit Singh, Aditi Singh Sharma, Piyush Kapoor"
+0.586,0.936,-2.843,1,0.207,0.218,0.113,0.649,128.987,"Tu Hi Toh Hai - Pritam, Benny Dayal"
+0.795,0.641,-5.73,0,0.242,0.148,0.0824,0.736,159.91,"Wakhra Swag (feat. Badshah) - Navv Inder, Badshah"
+0.778,0.227,-16.191,1,0.0379,0.983,0.113,0.38,116.033,"Kho Gaye Hum Kahan - Jasleen Royal, Prateek Kuhad"
+0.63,0.729,-4.93,1,0.0287,0.123,0.0786,0.44,127.919,"Sau Aasmaan - Armaan Malik, Neeti Mohan"
+0.581,0.424,-6.616,1,0.0269,0.723,0.101,0.352,98.936,Dariya - Arko
+0.82,0.907,-4.517,1,0.0607,0.655,0.0816,0.834,126.062,"Nachde Ne Saare - Jasleen Royal, Harshdeep Kaur, Siddharth Mahadevan"
+0.718,0.58,-5.149,0,0.028,0.602,0.196,0.31,97.979,Teri Khair Mangdi - Bilal Saeed
+0.801,0.856,-4.233,1,0.065,0.0984,0.228,0.919,106.026,"Kala Chashma - Amar Arshi, Badshah, Neha Kakkar, Indeep Bakshi"
+0.481,0.496,-7.421,1,0.0262,0.588,0.132,0.453,89.839,O Saathi - Atif Aslam
+0.527,0.469,-9.562,0,0.0247,0.856,0.121,0.403,90.933,Lo Safar - Jubin Nautiyal
+0.596,0.796,-7.266,1,0.0732,0.177,0.621,0.481,90.017,"Get Ready To Fight Again (feat. Anand Bhaskar, Jatinder Singh, Siddharth Basrur, Big Dhillon) - Pranaay"
+0.505,0.642,-5.864,1,0.0339,0.643,0.151,0.427,159.775,"Sab Tera - Armaan Malik, Shraddha Kapoor"
+0.757,0.67,-6.414,1,0.102,0.345,0.187,0.524,120.009,"Cham Cham - Meet Bros., Monali Thakur"
+0.379,0.63,-5.472,1,0.0293,0.765,0.112,0.243,143.87,Agar Tu Hota - Ankit Tiwari
+0.647,0.537,-7.486,1,0.0258,0.368,0.213,0.185,131.927,"Girl I Need You - Meet Bros., Roach Killa, Khushboo Grewal, Arijit Singh"
+0.595,0.751,-5.542,1,0.0826,0.0562,0.107,0.757,172.057,"Get Ready To Fight - Benny Dayal, Siddharth Basrur, Pranay Rijia"
+0.679,0.622,-8.514,0,0.0328,0.272,0.106,0.483,98.028,Pani Da Rang Male (From Vicky Donor) - Ayushmann Khurrana
+0.382,0.632,-6.393,1,0.0411,0.391,0.0922,0.716,78.936,"Khuda Jaane - Vishal-Shekhar, KK, Shilpa Rao"
+0.68,0.818,-9.144,0,0.0382,0.187,0.289,0.598,125.995,"Aahista Aahista - Vishal-Shekhar, Lucky Ali, Shreya Ghoshal, Anvita Dutt Guptan"
+0.702,0.843,-5.868,0,0.0846,0.375,0.282,0.872,98.028,"Jogi Mahi - Vishal-Shekhar, Sukhwinder Singh, Shekhar Ravjiani, Himani Kapoor, Anvita Dutt Guptan"
+0.58,0.311,-13.019,1,0.0279,0.615,0.257,0.226,98.989,"Aa Bhi Ja Aa Bhi Ja - Sur (The Melody Of Life) / Soundtrack Version - Lucky Ali, Sunidhi Chauhan"
+0.257,0.583,-8.185,1,0.0429,0.603,0.146,0.217,160.127,Beete Lamhein - KK
+0.335,0.529,-9.847,1,0.0361,0.0908,0.129,0.291,101.317,Bheegi Bheegi - James
+0.571,0.734,-6.059,0,0.0402,0.463,0.128,0.552,118.881,"Tu Hi Meri Shab Hai, Pt. 1 - KK"
+0.597,0.898,-8.23,1,0.0316,0.00763,0.322,0.871,125.993,Tu Hi Meri Shab Hai - Remix - KK
+0.626,0.778,-11.277,0,0.0468,0.186,0.109,0.813,123.005,Ya Ali - Zubeen Garg
+0.581,0.634,-13.542,0,0.035,0.000305,0.309,0.668,129.997,Ya Ali - Remix - Zubeen Garg
+0.462,0.457,-15.251,0,0.106,0.186,0.334,0.535,175.94,"Saathiya - A.R. Rahman, Sonu Nigam, Gulzar"
+0.814,0.477,-12.855,1,0.0466,0.00722,0.0404,0.964,109.982,"O Humdum Suniyo Re - A.R. Rahman, KK, Shaan, Gulzar"
+0.739,0.35,-14.784,0,0.04,0.378,0.0683,0.456,103.988,"Chupke Se - A.R. Rahman, Sadhana Sargam, Murtuza, Gulzar"
+0.64,0.295,-16.357,1,0.0397,0.425,0.0804,0.107,121.903,"Yeh Haseen Vadiyan Yeh Khula Aasman - A.R. Rahman, S. P. Balasubrahmanyam, K. S. Chithra"
+0.619,0.377,-9.296,1,0.0649,0.0722,0.071,0.316,176.052,"Kabhi Neem Neem (From Yuva) - Madhushree, A.R. Rahman"
+0.786,0.579,-14.913,1,0.142,0.186,0.118,0.481,90.012,"Chaiyya Chaiyya - Sukhwinder Singh, Sapna Awasthi"
+0.767,0.503,-13.424,1,0.0828,0.12,0.158,0.483,141.996,"Jiya Jale - Lata Mangeshkar, M. G. Sreekumar"
+0.844,0.442,-16.54,1,0.0691,0.00882,0.0879,0.436,105.986,"Dil Se Re - A.R. Rahman, Anuradha, Anupama"
+0.695,0.504,-14.057,0,0.115,0.0944,0.269,0.345,91.022,"Satarangi Re - Sonu Nigam, Kavita Krishnamurthy"
+0.678,0.622,-7.988,0,0.0695,0.138,0.122,0.535,100.005,Masakali - Mohit Chauhan
+0.643,0.458,-11.502,0,0.0594,0.327,0.0966,0.73,82.041,Rehna Tu - A.R. Rahman
+0.734,0.355,-10.605,0,0.083,0.296,0.124,0.584,193.922,Genda Phool - Rekha Bhardwaj
+0.64,0.357,-10.582,1,0.0321,0.433,0.127,0.148,124.518,Yeh Jo Des Hai Tera - A.R. Rahman
+0.32,0.337,-10.91,1,0.0611,0.709,0.0662,0.206,79.098,"Ishaqzaade - Amit Trivedi, Javed Ali, Shreya Ghoshal, Kausar Munir"
+0.446,0.398,-11.353,0,0.0358,0.421,0.112,0.259,149.839,"Pareshaan - Amit Trivedi, Shalmali Kholgade, Kausar Munir"
+0.862,0.673,-6.686,1,0.0688,0.33,0.0961,0.841,105.003,"Suno Aisha - Amit Trivedi, Nakash Aziz, Ash King"
+0.82,0.645,-6.873,1,0.0433,0.497,0.118,0.789,111.935,Sawaar Loon - Monali Thakur
+0.718,0.295,-11.098,1,0.0567,0.918,0.0954,0.751,150.054,"Monta Re - Swanand Kirkire, Amitabh Bhattacharya"
+0.605,0.336,-11.131,1,0.0261,0.806,0.129,0.209,100.058,"Manmarziyan - Shilpa Rao, Amitabh Bhattacharya, Amit Trivedi"
+0.493,0.418,-9.693,1,0.0261,0.436,0.104,0.22,89.982,Zinda - Amit Trivedi
+0.47,0.293,-10.578,1,0.0309,0.857,0.134,0.394,163.942,"Aahatein (Unplugged) - Karthik, Shilpa Rao"
+0.609,0.288,-13.371,1,0.0251,0.311,0.109,0.301,81.999,"Aahatein - Karthik, Shilpa Rao"
+0.665,0.801,-5.95,1,0.0972,0.0535,0.3,0.899,159.854,"Aunty Ji - Ash King, Neuman Pinto, Bianca Gomes"
+0.77,0.666,-7.232,0,0.0608,0.0406,0.183,0.74,136.004,"Ek Main Aur Ekk Tu - Benny Dayal, Anushka Manchanda"
+0.28,0.745,-4.523,1,0.0929,0.326,0.0933,0.186,80.687,Ae Watan (Male) - Arijit Singh
+0.611,0.598,-8.178,1,0.0551,0.345,0.183,0.604,177.963,"Dilbaro - Harshdeep Kaur, Shankar Mahadevan, Vibha Saraf"
+0.602,0.542,-6.817,1,0.0272,0.0632,0.128,0.461,95.041,Raazi - Arijit Singh
+0.465,0.551,-6.58,1,0.0362,0.619,0.109,0.415,89.459,"Bandeya (feat. Arijit Singh) - From Dil Juunglee - Shaarib Toshi, Arijit Singh"
+0.806,0.815,-5.373,0,0.0599,0.0081,0.586,0.678,129.999,"Abhi Toh Party Shuru Hui Hai - Badshah, Aastha Gill"
+0.495,0.556,-7.49,1,0.041,0.638,0.123,0.366,159.996,"Naina - Sona Mohapatra, Armaan Malik"
+0.667,0.641,-11.009,1,0.609,0.572,0.311,0.963,169.968,"Asli Hip Hop - Ranveer Singh, Spitfire, D-Cypher, BeatRAW"
+0.844,0.617,-12.748,0,0.116,0.00502,0.0558,0.159,107.999,"Mere Gully Mein - Ranveer Singh, DIVINE, Naezy, Sez on the Beat"
+0.726,0.304,-17.513,1,0.0365,0.254,0.0946,0.0665,94.001,"Doori Poem - Ranveer Singh, Rishi Rich"
+0.722,0.43,-13.041,0,0.0557,0.0449,0.156,0.33,94.003,"Doori - Ranveer Singh, Rishi Rich"
+0.397,0.684,-10.014,1,0.0419,0.0486,0.11,0.87,63.047,"Train Song - Midival Punditz, Karsh Kale, Raghu Dixit"
+0.921,0.652,-11.23,0,0.27,0.456,0.222,0.68,110.01,"Jingostan Beatbox - D-Cypher, BeatRAW, Dub Sharma"
+0.832,0.657,-7.755,1,0.209,0.0433,0.0752,0.756,104.005,"Sher Aaya Sher - DIVINE, Major C"
+0.846,0.693,-8.041,1,0.217,0.784,0.339,0.456,97.94,"Azadi - Dub Sharma, DIVINE"
+0.766,0.618,-8.552,0,0.124,0.0187,0.181,0.513,95.054,"Apna Time Aayega - Ranveer Singh, Dub Sharma, DIVINE"
+0.743,0.215,-14.52,0,0.0514,0.854,0.0814,0.521,162.09,"Jeene Mein Aye Maza - Ankur Tewari, Mikey McCleary"
+0.587,0.963,0.366,0,0.0552,0.0656,0.27,0.491,127.842,"BIBA - Marshmello, Pritam"
+0.722,0.933,-3.173,1,0.069,0.203,0.166,0.842,108.002,"Gal Ban Gayi - Meet Bros., Sukhbir, Neha Kakkar, Yo Yo Honey Singh"
+0.759,0.938,-5.387,1,0.123,0.143,0.402,0.81,92.017,"Crazy Kiya Re - Pritam, Sunidhi Chauhan, Sameer"
+0.831,0.932,-6.251,1,0.221,0.164,0.383,0.571,99.97,"Dhoom Again - Pritam, Vishal Dadlani, Dominique Cerejo, Asif Ali Baig"
+0.782,0.953,-5.442,1,0.162,0.161,0.0491,0.477,101.997,"Dil Laga Na - Pritam, Sukhbir, Soham Chakrabarthy, Sameer"
+0.738,0.873,-5.659,1,0.107,0.075,0.225,0.484,104.982,"Mauja Hi Mauja - Pritam, Mika Singh"
+0.609,0.538,-7.842,1,0.0273,0.328,0.125,0.608,130.015,"Tum Se Hi - Pritam, Mohit Chauhan"
+0.757,0.942,-4.13,0,0.0461,0.158,0.507,0.728,120.004,"Nagada Nagada - Pritam, Sonu Nigam, Javed Ali"
+0.504,0.787,-5.948,0,0.0605,0.412,0.323,0.49,114.772,"Aao Milo Chalo - Pritam, Shaan, Sultan Khan"
+0.645,0.459,-9.484,1,0.0296,0.185,0.132,0.379,119.987,Aaoge Jab Tum - Rashid Khan
+0.628,0.987,-5.633,1,0.0407,0.021,0.111,0.776,130.021,"Tum Se Hi (Remix) - Pritam, Mohit Chauhan, Dj Sunil"
+0.762,0.718,-5.039,1,0.12,0.105,0.118,0.718,98.019,"Challa - Romy, Vivek Hariharan, Shashwat Sachdev"
+0.453,0.346,-9.786,1,0.0424,0.672,0.119,0.275,146.81,"Behe Chala - Yasser Desai, Shashwat Sachdev"
+0.774,0.783,-4.247,1,0.0857,0.0173,0.19,0.206,93.959,"Jagga Jiteya - Daler Mehndi, Dee MC, Shashwat Sachdev"
+0.424,0.579,-6.18,1,0.0398,0.481,0.0974,0.386,124.827,"Manzar Hai Ye Naya - Shashwat Sachdev, Shantanu Sudame"
+0.712,0.655,-7.813,1,0.0487,0.0694,0.103,0.145,99.978,"Jigra - Shashwat Sachdev, Siddharth Basrur"
+0.495,0.633,-6.603,1,0.0474,0.765,0.0858,0.477,89.632,"Hans Mat Pagli - Sonu Nigam, Shreya Ghoshal"
+0.494,0.324,-10.749,1,0.038,0.914,0.0996,0.433,179.983,"Tere Bin - Sonu Nigam, Shreya Ghoshal"
+0.722,0.916,-4.421,0,0.0691,0.374,0.0944,0.855,114.012,Gulabi Retro Mix - Sonu Nigam
+0.451,0.674,-11.011,1,0.0967,0.052,0.0531,0.367,116.999,"Gori Tu Latth Maar - Sonu Nigam, Palak Muchhal"
+0.682,0.55,-11.072,1,0.0804,0.454,0.0693,0.839,104.975,Deewana Tera - Sonu Nigam
+0.533,0.436,-7.521,0,0.0276,0.234,0.46,0.371,146.868,"Main Agar Kahoon - Sonu Nigam, Shreya Ghoshal"
+0.636,0.577,-10.374,1,0.0312,0.35,0.124,0.82,121.053,Meri Duniya Hai - Sonu Nigam
+0.763,0.796,-7.095,1,0.0545,0.0362,0.248,0.757,103.025,"Salaam-E-Ishq - Sonu Nigam, Shreya Ghoshal, Kunal Ganjawala, Sadhana Sargam, Shankar Mahadevan"
+0.68,0.524,-12.536,1,0.0306,0.161,0.101,0.577,100.054,Ab Mujhe Raat Din - Sonu Nigam
+0.449,0.391,-9.252,0,0.0295,0.773,0.12,0.227,115.159,Dard - Sonu Nigam
+0.853,0.69,-6.438,1,0.0606,0.115,0.0404,0.933,113.997,"Ta Ra Rum Pum - Vishal-Shekhar, Shaan, Mahalakshmi Iyer, Javed Akhtar"
+0.657,0.601,-8.668,0,0.0374,0.125,0.0885,0.89,75.004,"Hey Shona - Vishal-Shekhar, Shaan, Sunidhi Chauhan, Javed Akhtar"
+0.836,0.915,-5.745,0,0.0445,0.201,0.0389,0.792,109.03,"Ab To Forever - Vishal-Shekhar, KK, Shreya Ghoshal, Vishal Dadlani, Javed Akhtar"
+0.515,0.691,-4.028,0,0.0344,0.624,0.121,0.484,169.521,"Pachtaoge (From Jaani Ve) - Arijit Singh, B Praak"
+0.695,0.727,-6.274,0,0.0323,0.0744,0.533,0.864,118.034,"Ghungroo (From War) - Vishal-Shekhar, Arijit Singh, Shilpa Rao, Kumaar"
+0.494,0.832,-3.727,0,0.291,0.518,0.679,0.737,140.039,"Radhe Radhe - Meet Bros., Amit Gupta"
+0.64,0.706,-3.848,1,0.094,0.192,0.522,0.62,176.011,"Gat Gat - Meet Bros., Jass Zaildar, Khushboo Grewal"
+0.634,0.648,-6.781,0,0.0412,0.361,0.619,0.667,95.989,"Ik Mulaqaat - Meet Bros., Palak Muchhal, Altamash Faridi"
+0.481,0.366,-6.737,0,0.0281,0.561,0.157,0.589,94.137,"Ik Mulaqaat Unplugged - Meet Bros., Ayushmann Khurrana"
+0.746,0.937,-4.392,0,0.219,0.383,0.336,0.71,85.02,"Dhagala Lagali - Meet Bros., Mika Singh, Jyotica Tangri"
+0.825,0.904,-5.414,0,0.0787,0.257,0.0715,0.528,129.036,"Jai Jai Shivshankar (From War) - Vishal Dadlani, Benny Dayal"
+0.51,0.739,-5.228,1,0.0482,0.58,0.11,0.575,89.982,"Dil Hi Toh Hai (Reprise) - Pritam, Sreerama Chandra, Antara Mitra"
+0.482,0.694,-5.368,1,0.042,0.452,0.11,0.573,90.196,"Dil Hi Toh Hai - Pritam, Arijit Singh, Antara Mitra, Nikhil D'Souza"
+0.677,0.823,-4.997,1,0.0375,0.109,0.165,0.174,128.01,"Nadaaniyaan - Pritam, Arjun Kanungo, Lisa Mishra"
+0.49,0.461,-7.282,1,0.0412,0.528,0.0826,0.279,116.853,"Zindagi - Pritam, Arijit Singh"
+0.793,0.856,-4.926,0,0.0657,0.396,0.125,0.771,111.976,"Pink Gulaabi Sky - Pritam, Shashwat Singh, Jonita Gandhi"
+0.411,0.277,-8.844,1,0.0305,0.903,0.209,0.345,143.768,"Dekha Hazaro Dafaa - Arijit Singh, Palak Muchhal"
+0.696,0.704,-7.876,1,0.0423,0.167,0.155,0.426,124.972,"Makhna - Tanishk Bagchi, Yasser Desai, Asees Kaur"
+0.804,0.913,-3.135,1,0.0933,0.0248,0.391,0.544,119.993,"Muqabla (From Street Dancer 3D) - Yash Narvekar, Parampara Tandon, Tanishk Bagchi"
+0.543,0.587,-3.792,1,0.0267,0.713,0.0677,0.309,92.033,Mann Bharrya - B Praak
+0.591,0.816,-5.86,1,0.0361,0.536,0.401,0.714,119.996,"Is This Love (From Kismat Konnection) - Mohit Chauhan, Pritam, Shreya Ghoshal"
+0.584,0.698,-6.61,0,0.0376,0.447,0.0699,0.436,79.993,Jee Le Zaraa - Vishal Dadlani
+0.718,0.664,-7.466,1,0.0499,0.0618,0.0932,0.875,148.031,Dekha Hai Aise Bhi - Lucky Ali
+0.687,0.919,-3.28,1,0.0635,0.0939,0.105,0.877,145.037,"Sauda Khara Khara - Diljit Dosanjh, Sukhbir, Dhvani Bhanushali, Dj Chetas, Lijo George"
+0.275,0.411,-3.817,1,0.0285,0.637,0.129,0.259,80.202,"Maana Dil - B Praak, Rashmi Virag"
+0.685,0.736,-5.656,1,0.0521,0.0997,0.101,0.893,117.979,"Haan Main Galat (From Love Aaj Kal) - Pritam, Arijit Singh, Shashwat Singh"
+0.487,0.456,-7.144,1,0.0319,0.789,0.141,0.348,136.088,"Shayad (From Love Aaj Kal) - Pritam, Arijit Singh"
+0.786,0.797,-4.063,1,0.0414,0.233,0.0861,0.453,95.014,"Lagdi Lahore Di (From Street Dancer 3D) - Guru Randhawa, Tulsi Kumar, Sachin-Jigar, Vee"
+0.805,0.919,-1.294,1,0.0938,0.101,0.0598,0.494,94.993,"Illegal Weapon 2.0 (From Street Dancer 3D) - Jasmine Sandlas, Garry Sandhu, Tanishk Bagchi, Intense"
+0.791,0.348,-9.457,1,0.0434,0.594,0.097,0.49,131.972,"Dil Na Jaaneya - Rochak Kohli, Lauv, AKASA"
+0.708,0.263,-9.366,1,0.0311,0.715,0.18,0.673,122.829,"Dil Na Jaaneya (Unplugged) - Arijit Singh, Rochak Kohli"
+0.549,0.634,-8.827,1,0.0342,0.861,0.0953,0.36,107.946,"Mehrama (From Love Aaj Kal) - Pritam, Darshan Raval, Antara Mitra"
+0.384,0.728,-6.503,0,0.0623,0.329,0.329,0.311,156.396,Malang (Title Track) [From Malang - Unleash The Madness] - Ved Sharma
+0.834,0.688,-7.494,1,0.0653,0.175,0.174,0.876,117.949,"Kudi Nu Nachne De (From Angrezi Medium) - Vishal Dadlani, Sachin-Jigar"
+0.708,0.626,-5.008,1,0.0529,0.605,0.115,0.569,90.004,La La La (Reprise) - Arjun Kanungo
+0.595,0.586,-8.061,1,0.0328,0.154,0.125,0.35,124.953,"O Heeriye - Ayushmann Khurrana, Rochak Kohli"
+0.613,0.696,-9.486,0,0.0504,0.136,0.053,0.874,122.056,"Chura Ke Dil Mera - Kumar Sanu, Alka Yagnik"
+0.786,0.667,-8.272,1,0.054,0.0112,0.074,0.688,102.046,Liggi - Ritviz
+0.628,0.555,-12.152,0,0.176,0.0566,0.16,0.518,194.815,Thandi Hawa - Ritviz
+0.334,0.387,-9.483,1,0.0332,0.755,0.113,0.42,129.959,"Abhi Mujh Mein Kahin - Ajay-Atul, Sonu Nigam"
+0.595,0.44,-9.075,0,0.0308,0.744,0.167,0.367,99.93,"Tune Mujhe Pehchana Nahin - Jatin-Lalit, Shaan"
+0.566,0.862,-6.02,0,0.105,0.0246,0.103,0.455,147.974,"Baaki Baatein Peene Baad (Shots) (feat. Badshah) - Arjun Kanungo, Badshah"
+0.718,0.382,-8.237,1,0.0466,0.585,0.128,0.499,87.029,"Tu Hi Yaar Mera (From Pati Patni Aur Woh) - Rochak Kohli, Arijit Singh, Neha Kakkar"
+0.599,0.689,-5.668,0,0.0452,0.618,0.119,0.537,86.927,Dil De Diya Hai - Anand Raj Anand
+0.66,0.675,-7.764,1,0.0366,0.545,0.145,0.632,81.498,"Woh Din (Film Version) - Pritam, TUSHAR JOSHI"
+0.534,0.481,-9.016,0,0.0412,0.697,0.142,0.293,124.914,"Khairiyat - Pritam, Arijit Singh"
+0.562,0.368,-9.198,1,0.027,0.973,0.105,0.25,107.914,"Kal Ki Hi Baat Hai - Pritam, KK"
+0.706,0.674,-5.932,1,0.044,0.3,0.202,0.359,83.001,Sakhiyaan - Maninder Buttar
+0.644,0.818,-5.924,0,0.0549,0.431,0.0806,0.789,118.477,Kya Mujhe Pyar Hai - KK
+0.572,0.994,-2.685,1,0.0563,0.0812,0.276,0.5,132.024,Mukhtasar (From Teri Meri Kahaani) - Wajid
+0.521,0.892,-3.889,1,0.0674,0.00536,0.227,0.316,134.993,"Mukhtasar Remix (From Teri Meri Kahaani) - Wajid, DJ Suketu"
+0.693,0.693,-8.153,0,0.0388,0.628,0.178,0.592,117.012,Bhage Re Mann - Sunidhi Chauhan
+0.511,0.767,-5.699,1,0.0524,0.651,0.153,0.463,79.923,"Mere Bina - Pritam, Nikhil D'Souza"
+0.611,0.914,-3.519,1,0.188,0.145,0.0873,0.74,129.036,"Tu Hi Toh Hai - Pritam, Benny Dayal"
+0.604,0.665,-4.244,1,0.049,0.607,0.0832,0.702,93.963,"Shaayraana - Pritam, Arijit Singh"
+0.54,0.774,-7.873,0,0.0444,0.0524,0.142,0.384,191.809,Mann Mera (From Table No. 21) - Gajendra Verma
+0.539,0.547,-11.391,1,0.0345,0.842,0.0774,0.175,97.066,Heer Ranjha - Bhuvan Bam
+0.605,0.655,-5.625,0,0.0364,0.484,0.152,0.597,124.974,"Khairiyat (Bonus Track) - Pritam, Arijit Singh"
+0.758,0.377,-10.224,0,0.0511,0.544,0.0904,0.624,139.932,"Tere Naina - Shankar Mahadevan, Shreya Ghoshal"
+0.434,0.378,-8.7,1,0.029,0.766,0.115,0.291,92.982,"Rozana - Shreya Ghoshal, Rochak Kohli"
+0.607,0.468,-10.562,1,0.0407,0.367,0.0958,0.4,139.968,"Behti Hawa Sa Tha Woh - Shaan, Shantanu Moitra"
+0.883,0.334,-10.651,0,0.0426,0.159,0.12,0.747,106.02,Dil Bechara - A.R. Rahman
+0.365,0.402,-11.946,1,0.0493,0.774,0.0869,0.358,131.815,"Taare Ginn - A.R. Rahman, Mohit Chauhan, Shreya Ghoshal"
+0.722,0.288,-10.767,1,0.0444,0.827,0.12,0.502,119.899,"Sham - Amit Trivedi, Nikhil D'Souza, Neuman Pinto"
+0.676,0.544,-10.893,1,0.0568,0.566,0.341,0.533,88.969,"Khulke Jeene Ka - A.R. Rahman, Arijit Singh, Shashaa Tirupati"
+0.236,0.14,-13.478,1,0.0343,0.916,0.087,0.123,76.805,"Main Tumhara - A.R. Rahman, Jonita Gandhi, Hriday Gattani"
+0.75,0.685,-9.021,1,0.036,0.164,0.107,0.722,100.003,"Maskhari - A.R. Rahman, Sunidhi Chauhan, Hriday Gattani"
+0.436,0.499,-12.909,0,0.0356,0.499,0.308,0.551,103.104,"Ae Mere Humsafar - Alka Yagnik, Udit Narayan"
+0.792,0.635,-13.94,0,0.0863,0.349,0.324,0.648,122.004,"Aankhein Khuli - Jatin-Lalit, Lata Mangeshkar, Udit Narayan, Anand Bakshi"
+0.548,0.506,-13.684,0,0.0495,0.492,0.189,0.641,85.628,"Humko Humise Chura Lo - Jatin-Lalit, Lata Mangeshkar, Udit Narayan, Anand Bakshi"
+0.639,0.531,-14.632,0,0.0407,0.393,0.285,0.672,97.074,"Chalte Chalte - Jatin-Lalit, Udbhav, Manohar Shetty, Anand Bakshi"
+0.512,0.479,-10.765,0,0.0378,0.765,0.0648,0.856,97.205,"Tujhe Dekha To - Lata Mangeshkar, Kumar Sanu"
+0.623,0.749,-10.703,0,0.0697,0.694,0.116,0.903,106.205,Ruk Ja O Dil Deewane - Udit Narayan
+0.701,0.638,-3.711,1,0.302,0.492,0.153,0.813,177.867,"Mere Liye Tum Kaafi Ho (From Shubh Mangal Zyada Saavdhan) - Ayushmann Khurrana, Tanishk-Vayu"
+0.559,0.318,-11.106,0,0.0317,0.857,0.11,0.684,80.242,"Chura Liya Hai Tumne Jo Dil Ko (From Yaadon Ki Baaraat) - Asha Bhosle, Mohammed Rafi"
+0.619,0.429,-7.867,1,0.028,0.738,0.136,0.545,90.058,"Saibo - Sachin-Jigar, Shreya Ghoshal, Tochi Raina"
+0.56,0.512,-7.185,0,0.0333,0.592,0.056,0.39,123.991,"Pal Pal Dil Ke Paas- Title Track - Arijit Singh, Parampara Tandon"
+0.46,0.444,-6.217,1,0.123,0.714,0.0881,0.7,74.977,Mera Mann Kehne Laga - Falak Shabbir
+0.562,0.775,-5.951,1,0.275,0.241,0.284,0.884,89.979,Dil Luteya Feat. Apache Indian - Jazzy B
+0.57,0.55,-8.343,1,0.035,0.524,0.0921,0.435,117.999,"Kalank (Title Track) - Pritam, Arijit Singh"
+0.7,0.343,-10.474,1,0.0308,0.767,0.0789,0.488,137.864,"Jashn-E-Bahaaraa - A.R. Rahman, Javed Ali"
+0.537,0.604,-7.576,1,0.054,0.757,0.322,0.41,173.915,"Ek Ladki Ko Dekha Toh Aisa Laga (From Ek Ladki Ko Dekha Toh Aisa Laga) - Darshan Raval, Rochak Kohli"
+0.515,0.519,-11.197,1,0.0397,0.323,0.0566,0.582,89.499,"Na Tum Jano Na Hum - Lucky Ali, Ramya"
+0.63,0.63,-7.525,1,0.0364,0.295,0.0934,0.517,107.103,"Mitwa - Shankar-Ehsaan-Loy, Shankar Mahadevan, Caralisa Monteiro, Shafqat Amanat Ali"
+0.638,0.785,-2.612,1,0.044,0.185,0.245,0.515,91.101,"Lut Gaye - Jubin Nautiyal, Tanishk Bagchi, Nusrat Fateh Ali Khan, Emraan Hashmi"
+0.645,0.721,-9.9,0,0.0378,0.126,0.197,0.709,148.906,"Jo Haal Dil Ka - Kumar Sanu, Alka Yagnik"
+0.637,0.573,-6.69,0,0.0491,0.279,0.0617,0.704,90.017,"Bol Na Halke Halke - Shankar-Ehsaan-Loy, Rahat Fateh Ali Khan, Mahalakshmi Iyer, Gulzar"
+0.693,0.638,-6.715,1,0.0498,0.354,0.0972,0.747,90.005,"Sajde - Pritam, KK, Sunidhi Chauhan"
+0.82,0.503,-9.416,1,0.098,0.0725,0.0642,0.622,91.07,"Gela Gela Gela - Adnan Sami, Sunidhi Chauhan"
+0.531,0.787,-5.24,1,0.0452,0.548,0.0813,0.693,88.943,"Jhumritalaiyya - Pritam, Arijit Singh, Mohan Kannan"
+0.41,0.394,-7.986,1,0.0336,0.453,0.104,0.196,149.341,"Inn Lamhon Ke Daaman Mein - A.R. Rahman, Sonu Nigam, Madhushree"
+0.661,0.463,-8.59,1,0.0402,0.501,0.0789,0.408,91.003,"Dhun Laagi - Siddharth Amit Bhavsar, Malhar Thakar, Maulik Nayak, Aarohi Patel"
+0.836,0.51,-10.091,0,0.371,0.713,0.101,0.56,151.499,"Manike Mage Hithe - Chamath Sangeeth, Yohani, Satheeshan"
+0.721,0.628,-5.546,1,0.0409,0.61,0.108,0.514,81.008,"Raataan Lambiyan - Tanishk Bagchi, Jubin Nautiyal, Asees Kaur"
+0.809,0.653,-7.303,0,0.0775,0.0984,0.0789,0.702,100.008,Tenu Le Ke - omer inayat
+0.389,0.586,-5.235,1,0.0452,0.537,0.177,0.419,77.984,"Maaeri - Palash Sen, Euphoria"
+0.512,0.752,-4.857,0,0.0534,0.305,0.708,0.428,127.965,"Ik Vaari Aa (From Raabta) - Pritam, Arijit Singh"
+0.751,0.669,-6.532,0,0.0359,0.342,0.0822,0.359,119.014,"Doobey (From Gehraiyaan) - OAFF, Savera, Lothika, Kausar Munir"
+0.309,0.299,-9.039,0,0.0334,0.554,0.0899,0.193,126.424,"Gehraiyaan Title Track - OAFF, Savera, Lothika, Ankur Tewari"
+0.679,0.663,-6.279,0,0.051,0.0221,0.351,0.511,123.985,"Beqaaboo - OAFF, Savera, Shalmali Kholgade, Kausar Munir"
+0.751,0.669,-6.532,0,0.0359,0.342,0.0822,0.359,119.014,"Doobey - OAFF, Savera, Lothika, Kausar Munir"
+0.19,0.261,-12.34,1,0.034,0.95,0.132,0.168,183.832,"Gehraiyaan Reprise - OAFF, Savera, Mohit Chauhan, Lothika, Ankur Tewari"
+0.417,0.482,-9.475,1,0.0439,0.614,0.115,0.205,84.16,"Satrangi Re - Arijit Singh, Dawn Cordo"
+0.537,0.677,-7.191,1,0.0277,0.0866,0.415,0.357,100.023,"Vhalam Aavo Ne - Jigardan Gadhavi, Malhar Thakar, Maulik Nayak, Aarohi Patel"
+0.782,0.694,-5.356,0,0.0733,0.482,0.757,0.601,119.036,Nit Khair Manga - Rahat Fateh Ali Khan
+0.714,0.596,-6.206,0,0.043,0.0657,0.0625,0.669,91.991,"Pasoori - Shae Gill, Ali Sethi"
+0.561,0.709,-10.247,1,0.0484,0.232,0.0992,0.509,115.006,"Aashayein - KK, Salim Merchant"
+0.782,0.812,-6.363,1,0.0334,0.00481,0.0619,0.23,128.04,"Love You Zindagi - Club Mix - Amit Trivedi, Alia Bhatt"
+0.688,0.701,-7.505,1,0.0298,0.06,0.271,0.385,110.019,"Love You Zindagi - Amit Trivedi, Jasleen Royal"
+0.552,0.769,-4.504,0,0.0465,0.497,0.112,0.702,86.957,"Bulleya (From Ae Dil Hai Mushkil) - Pritam, Amit Mishra, Shilpa Rao"
+0.488,0.403,-7.004,1,0.0272,0.598,0.434,0.495,131.496,"Bolna (From Kapoor & Sons (Since 1921)) - Tanishk Bagchi, Arijit Singh, Asees Kaur"
+0.567,0.577,-6.197,0,0.0264,0.628,0.132,0.217,101.99,"Muskurane (From Citylights) - Romantic - Jeet Gannguli, Arijit Singh"
+0.539,0.441,-10.422,0,0.0394,0.509,0.113,0.372,81.067,"Tumhi Dekho Naa - Shankar-Ehsaan-Loy, Sonu Nigam, Alka Yagnik"
+0.515,0.519,-11.197,1,0.0397,0.323,0.0566,0.582,89.499,"Na Tum Jano Na Hum - Lucky Ali, Ramya"
+0.727,0.885,-7.073,1,0.0642,0.179,0.108,0.454,119.977,"Beedi (From Omkara) - Sunidhi Chauhan, Sukhwinder Singh, Nachiketa Chakravorty, Clinton Cerejo"
+0.701,0.864,-3.955,1,0.035,0.36,0.16,0.819,120.055,Tu Jaane Na (From Ajab Prem Ki Ghazab Kahani) - Atif Aslam
+0.685,0.773,-5.331,1,0.0308,0.548,0.193,0.541,119.987,"Tera Hone Laga Hoon (From Ajab Prem Ki Ghazab Kahani) - Atif Aslam, Alisha Chinai, Pritam"
+0.764,0.863,-5.414,0,0.0416,0.00269,0.27,0.92,132.021,"Where's the Party Tonight - Shankar-Ehsaan-Loy, Shaan, Vasundhara Das, Loy Mendonsa, Shankar Mahadevan"
+0.59,0.875,-5.294,1,0.171,0.45,0.164,0.736,96.915,"Bole Chudiyan - Jatin-Lalit, Amit Kumar, Sonu Nigam, Alka Yagnik, Udit Narayan, Kavita Krishnamurthy"
+0.547,0.554,-11.165,1,0.0374,0.602,0.0735,0.848,91.386,"Kuch Kuch Hota Hai - Jatin-Lalit, Udit Narayan, Alka Yagnik"
+0.627,0.838,-8.168,1,0.0406,0.22,0.122,0.728,138.856,"Bin Tere Sanam (From Yaara Dildara) - Udit Narayan, Kavita Krishnamurthy"
+0.726,0.323,-12.599,0,0.0372,0.588,0.0951,0.481,121.958,"Ae Ajnabi (From Dil Se) - Udit Narayan, Mahalakshmi Iyer"
+0.695,0.504,-14.057,0,0.115,0.0944,0.269,0.345,91.022,"Satarangi Re (From Dil Se) - Sonu Nigam, Kavita Krishnamurthy"
+0.633,0.691,-5.851,1,0.0557,0.329,0.134,0.57,80.002,"Suraj Hua Maddham (From Kabhi Khushi Kabhie Gham) - Sandesh Shandilya, Sonu Nigam, Alka Yagnik"
+0.432,0.695,-8.022,1,0.111,0.732,0.274,0.513,116.153,"Shukran Allah (From Kurbaan) - Salim–Sulaiman, Sonu Nigam, Shreya Ghoshal, Salim Merchant"
+0.73,0.944,-3.48,0,0.164,0.266,0.0354,0.657,113.309,"Nagada Sang Dhol - Shreya Ghoshal, Osman Mir"
+0.567,0.793,-5.715,0,0.052,0.254,0.0378,0.395,158.084,Agar Tum Mil Jao - From Zeher - Shreya Ghoshal
+0.602,0.874,-8.529,0,0.0377,0.521,0.113,0.691,103.198,"Tip Tip Barsa Paani (From Mohra) - Udit Narayan, Alka Yagnik"
+0.608,0.689,-8.29,0,0.0834,0.697,0.337,0.842,130.654,"Zara Sa Jhoom Loon Main (From Dilwale Dulhania Le Jayenge) - Asha Bhosle, Abhijeet"
+0.562,0.696,-7.612,1,0.0397,0.628,0.172,0.722,93.801,"Neele Neele Ambar Par - Male Version - Kalyanji-Anandji, Kishore Kumar"
+0.438,0.46,-11.431,0,0.0329,0.863,0.0511,0.488,109.129,O Mere Dil Ke Chain - From Mere Jeevan Saathi - Kishore Kumar
+0.468,0.37,-11.753,0,0.0363,0.467,0.0398,0.786,129.34,"Pyar Hua Iqrar Hua - From Shree 420 - Manna Dey, Lata Mangeshkar"
+0.665,0.908,-4.804,1,0.188,0.0503,0.0798,0.694,98.811,"Say Shava Shava - Aadesh Shrivastava, Sudesh Bhosle, Alka Yagnik, Sunidhi Chauhan, Amitabh Bachchan, Udit Narayan"
+0.514,0.574,-5.788,1,0.0312,0.402,0.0965,0.4,75.89,"Surili Akhiyon Wale (From Veer) - Rahat Fateh Ali Khan, Suzanne D'Mello"
+0.679,0.622,-8.514,0,0.0328,0.272,0.106,0.483,98.028,Pani Da Rang Male (From Vicky Donor) - Ayushmann Khurrana
+0.501,0.649,-5.972,1,0.0337,0.633,0.154,0.472,159.817,"Sab Tera - Shraddha Kapoor, Armaan Malik"
+0.717,0.415,-9.875,0,0.0302,0.637,0.0976,0.379,100.021,"Enna Sona (From OK Jaanu) - A.R. Rahman, Arijit Singh"
+0.442,0.716,-6.3,1,0.047,0.468,0.452,0.387,89.869,Galliyan - Ankit Tiwari
+0.493,0.533,-6.549,1,0.0276,0.745,0.132,0.246,95.044,"Sun Mere Humsafar - Akhil Badrinath, Ki Dulhania"
+0.513,0.384,-8.773,1,0.027,0.708,0.13,0.265,91.265,Chingari Koi Bhadke - From Amar Prem - Kishore Kumar
+0.473,0.575,-7.958,1,0.0295,0.755,0.179,0.593,107.176,Aanewala Pal Janewala Hai - From Golmaal - Kishore Kumar
+0.705,0.591,-9.549,0,0.217,0.839,0.0968,0.768,139.782,Mere Samnewali Khidki Mein - Happy - From Padosan - Kishore Kumar
+0.491,0.397,-12.736,1,0.0395,0.854,0.222,0.648,125.228,Dream Girl - From Dream Girl - Kishore Kumar
+0.563,0.455,-7.01,0,0.0551,0.808,0.154,0.892,120.784,Ek Ladki Bheegi Bhagi Si - From Chalti Ka Naam Gaadi - Kishore Kumar
+0.42,0.494,-10.997,1,0.034,0.886,0.336,0.555,116.04,Yeh Sham Mastani - From Kati Patang - Kishore Kumar
+0.657,0.941,-3.919,0,0.061,0.0476,0.0797,0.879,136.202,"Jai Ho! (You Are My Destiny) - A.R. Rahman, The Pussycat Dolls, Nicole Scherzinger"
+0.429,0.763,-5.91,1,0.107,0.524,0.127,0.668,100.835,"Kabhi Khushi Kabhie Gham - Jatin-Lalit, Lata Mangeshkar"
+0.729,0.505,-9.236,1,0.323,0.229,0.0975,0.723,148.435,"Radha Kaise Na Jale - A.R. Rahman, Asha Bhosle, Udit Narayan, Vaishali Samant"
+0.758,0.877,-5.047,1,0.0806,0.138,0.085,0.707,108.011,"Banno (From Tannu Weds Manu Returns) - Brijesh Shandilya, Swati Sharma"
+0.495,0.654,-6.639,0,0.0679,0.713,0.165,0.35,123.896,"Ae Dil Hai Mushkil Title Track (From Ae Dil Hai Mushkil) - Pritam, Arijit Singh"
+0.854,0.788,-4.473,0,0.0909,0.452,0.217,0.955,102.968,Ghani Bawri (From Tanu Weds Manu Returns) - Jyoti Noora
+0.586,0.936,-2.843,1,0.207,0.218,0.113,0.649,128.987,"Tu Hi Toh Hai (From Holiday) - Pritam, Benny Dayal"
+0.432,0.695,-8.022,1,0.111,0.732,0.274,0.513,116.153,"Shukran Allah - Salim-Sulaiman, Sonu Nigam, Shreya Ghoshal, Salim Merchant"
+0.468,0.737,-7.274,1,0.0765,0.726,0.0655,0.572,79.448,"Sajdaa - Shankar-Ehsaan-Loy, Rahat Fateh Ali Khan, Shankar Mahadevan, Richa Sharma"
+0.542,0.486,-10.58,1,0.0322,0.587,0.0627,0.848,81.789,Ek Ladki Ko Dekha - Kumar Sanu
+0.635,0.268,-15.073,0,0.0895,0.594,0.316,0.62,143.771,Zara Zara - Bombay Jayashri
+0.702,0.86,-3.969,1,0.0346,0.36,0.133,0.83,120.045,Tu Jaane Na (From Ajab Prem Ki Ghazab Kahani) - Atif Aslam
+0.651,0.552,-10.108,0,0.0337,0.446,0.0667,0.621,108.071,"Dil Kya Kare (From Dil Kya Kare) - Jatin-Lalit, Udit Narayan, Alka Yagnik"
+0.824,0.623,-7.62,0,0.189,0.453,0.208,0.876,118.039,Ye Ishq Hai (From Jab We Met) - Shreya Ghoshal
+0.476,0.788,-4.821,0,0.0448,0.24,0.106,0.747,90.066,"Channa Mereya (From Ae Dil Hai Mushkil) - Pritam, Arijit Singh"
+0.693,0.896,-4.114,1,0.0682,0.31,0.195,0.854,126.995,"Radha (From Jab Harry Met Sejal) - Pritam, Shahid Mallya, Sunidhi Chauhan"
+0.517,0.667,-6.123,1,0.0332,0.61,0.147,0.535,152.038,"Soch Na Sake - Amaal Mallik, Arijit Singh"
+0.581,0.659,-6.607,0,0.0385,0.348,0.149,0.758,111.986,Sanam Re - Divya Khosla Kumar
+0.536,0.903,-5.501,0,0.307,0.155,0.0641,0.657,129.967,"Aahun Aahun - Master Saleem, Neeraj Shridhar, Suzanne D'Mello"
+0.64,0.529,-6.205,1,0.0279,0.611,0.118,0.391,119.909,"Soniyo - From the Heart - Raju Singh, Krishna Beura"
+0.41,0.633,-6.989,1,0.0378,0.513,0.116,0.344,101.461,"In Dino - Pritam, Soham"
+0.626,0.778,-11.277,0,0.0468,0.186,0.109,0.813,123.005,Ya Ali - Version 1 - Zubeen Garg
+0.788,0.675,-13.249,1,0.166,0.244,0.0731,0.558,90.001,Chaiyya Chaiyya - Sukhwinder Singh & Sapana Awasthi
+0.747,0.81,-8.352,0,0.0541,0.0688,0.0592,0.937,130.012,"I Hate Luv Storys (From I Hate Luv Storys) - Vishal-Shekhar, Vishal Dadlani"
+0.753,0.51,-11.425,1,0.0314,0.222,0.0817,0.585,119.968,Tujhe Dekh Dekh - From Kalyug - Rahat Fateh Ali Khan
+0.69,0.533,-9.741,1,0.0342,0.157,0.121,0.399,119.924,"Jiya Dhadak Dhadak Jaye - Faisal Rafi, Rohail Hyat, Rahat Fateh Ali Khan"
+0.494,0.712,-6.605,0,0.0346,0.195,0.108,0.386,156.059,"Ae Zindagi Gale Laga Le - Take, 1 - Ilaiyaraaja, Amit Trivedi, Arijit Singh"
+0.722,0.944,-4.995,0,0.143,0.0393,0.0747,0.728,109.008,Twist - Neeraj Shridhar
+0.721,0.351,-11.438,0,0.0378,0.637,0.0972,0.457,121.953,E Ajnabi - Udit Narayan & Mahalaxshmi
+0.535,0.368,-9.103,0,0.0299,0.648,0.0911,0.684,80.918,Chura Liya Hai Tumne - R. D. Burman
+0.471,0.549,-6.863,1,0.0303,0.63,0.0792,0.655,105.861,Yeh Kya Hua - From Amar Prem - Kishore Kumar
+0.506,0.315,-10.438,1,0.0316,0.979,0.626,0.398,110.703,"Kabhi Kabhi Mere Dil Mein - From Kabhi Kabhie - Mukesh, Lata Mangeshkar"
+0.674,0.456,-8.077,0,0.0567,0.489,0.0931,0.452,127.049,Kehna Hi Kya - Bombay / Soundtrack Version - K. S. Chithra
+0.477,0.467,-8.398,0,0.0353,0.544,0.0908,0.512,120.995,Pal Pal Dil Ke Paas - From Blackmail - Kishore Kumar
+0.448,0.787,-3.722,1,0.112,0.111,0.103,0.666,167.997,"Teri Ore (From Singh Is Kinng) - Rahat Fateh Ali Khan, Shreya Ghoshal"
+0.65,0.912,-5.898,0,0.186,0.191,0.38,0.546,130.906,"Song: Dola Re - Kavita Krishnamurthy, Shreya Ghoshal, KK"
+0.623,0.595,-6.342,1,0.0331,0.363,0.353,0.418,78.029,"Zehnaseeb (From Hasee Toh Phasee) - Vishal-Shekhar, Chinmayi, Shekhar Ravjiani"
+0.771,0.553,-13.063,1,0.197,0.189,0.042,0.924,125.043,Phir Milenge Chalte Chalte - Sonu Nigam
+0.658,0.871,-6.339,1,0.0539,0.0706,0.192,0.689,90.039,Maine Payal Hai Chhankai - Falguni Pathak
+0.445,0.188,-13.885,1,0.0336,0.158,0.0958,0.357,99.718,"Tu Hi Re - Bombay / Soundtrack Version - Hariharan, Kavita Krishnamurthy"
+0.558,0.572,-7.723,0,0.0429,0.257,0.0689,0.337,94.105,"Mora Piya - Aadesh Shrivastava, Shashi, Rosalie Nicholson"
+0.378,0.419,-9.876,1,0.0293,0.93,0.121,0.455,94.68,"Tere Bina Zindagi Se - From Aandhi - Lata Mangeshkar, Kishore Kumar"
+0.599,0.653,-7.576,0,0.122,0.362,0.144,0.678,79.968,"Jab Se Tere Naina - Monty Sharma, Shaan"
+0.767,0.503,-13.424,1,0.0828,0.12,0.158,0.483,141.996,"Jiya Jale (From Dil Se) - Lata Mangeshkar, M. G. Sreekumar"
+0.667,0.341,-11.183,1,0.0254,0.614,0.119,0.6,97.5,"Piyu Bole (From Parineeta) - Sonu Nigam, Shreya Ghoshal"
+0.557,0.508,-9.002,1,0.0326,0.556,0.187,0.401,122.999,"Agar Tum Saath Ho - Arijit Singh, Alka Yagnik, Prokumar"
+0.371,0.668,-7.269,0,0.0497,0.636,0.294,0.403,87.458,"Gerua (From Dilwale) - Pritam, Arijit Singh, Antara Mitra"
+0.571,0.734,-6.059,0,0.0402,0.463,0.128,0.552,118.881,Tu Hi Meri Shab Hai - KK
+0.621,0.704,-5.293,0,0.0236,0.101,0.185,0.366,99.942,Tanha Dil - Shaan
+0.407,0.497,-8.292,1,0.0398,0.45,0.129,0.764,102.649,"Saawariya - Monty Sharma, Shail Hada"
+0.805,0.67,-13.187,1,0.0601,0.0493,0.203,0.916,122.992,Kay Sera Sera (From Pukar) - Kavita Krishnamurthy
+0.818,0.93,-2.982,1,0.247,0.33,0.658,0.831,113.988,"The Breakup Song - Pritam, Arijit Singh, Badshah, Jonita Gandhi, Nakash Aziz"
+0.606,0.601,-5.576,1,0.0283,0.796,0.127,0.453,125.961,"Hawayein (From Jab Harry Met Sejal) - Pritam, Arijit Singh"
+0.714,0.823,-5.38,0,0.1,0.248,0.0483,0.727,96.021,"Challa - Pritam, Babbu Maan, Suzanne D'Mello"
+0.522,0.74,-7.018,1,0.0465,0.558,0.144,0.732,92.618,"Tere Naina (From My Name Is Khan) - Shankar-Ehsaan-Loy, Shafqat Amanat Ali"
+0.703,0.666,-8.901,0,0.0356,0.587,0.0924,0.943,98.214,"Saajanji Ghar Aaye - Kavita Krishnamurthy, Kumar Sanu, Alka Yagnik"
+0.527,0.521,-6.837,0,0.0272,0.631,0.158,0.266,143.892,"Khamoshiyan (From Khamoshiyan) - Jeet Gannguli, Arijit Singh"
+0.644,0.84,-3.753,1,0.172,0.39,0.246,0.818,95.11,"Pinga (From Bajirao Mastani) - Shreya Ghoshal, Vaishali Made"
+0.489,0.575,-11.64,0,0.047,0.533,0.238,0.579,100.212,"Ho Gaya Hai Tujhko To Pyar Sajna - From Dilwale Dulhania Le Jayenge - Lata Mangeshkar, Udit Narayan"
+0.591,0.531,-8.677,0,0.0472,0.629,0.499,0.478,80.971,"Meherbaan (From Bang Bang) - Vishal-Shekhar, Ash King, Shilpa Rao, Shekhar Ravjiani"
+0.532,0.533,-10.033,0,0.0345,0.517,0.107,0.286,129.887,Tose Naina Lage - Anwar
+0.666,0.771,-6.017,1,0.0281,0.537,0.124,0.774,125.978,"Hawayein - Film Version - Pritam, Arijit Singh"
+0.582,0.45,-14.308,1,0.0656,0.142,0.0847,0.669,183.498,Chaand Taare (From Yes Boss) - Abhijeet
+0.618,0.568,-11.283,0,0.082,0.445,0.0376,0.643,164.006,"Dil Ne Yeh Kaha Hain Dil Se - Nadeem Shravan, Sonu Nigam, Alka Yagnik, Sameer"
+0.626,0.825,-8.171,1,0.0411,0.209,0.251,0.716,138.862,"Bin Tere Sanam (From Yaara Dildara) - Udit Narayan, Alka Yagnik"
+0.507,0.568,-10.229,1,0.0483,0.625,0.069,0.781,154.883,"Tujhe Yaad Na Meri Aayee - Jatin-Lalit, Udit Narayan, Alka Yagnik, Manpreet Akhtar"
+0.569,0.827,-7.586,0,0.11,0.777,0.37,0.882,98.4,"Mehndi Laga Ke Rakhna (From Dilwale Dulhania Le Jayenge) - Lata Mangeshkar, Udit Narayan"
+0.564,0.867,-6.21,1,0.121,0.361,0.262,0.815,88.919,"Bheegi Si Bhaagi Si (From Raajneeti) - Pritam, Mohit Chauhan, Antara Mitra"
+0.664,0.384,-16.858,0,0.0749,0.63,0.146,0.687,149.946,Dilko Tumse Pyar Hua - Roop Kumar Rathod
+0.677,0.444,-6.997,1,0.0296,0.754,0.308,0.516,79.996,"Iktara (From Wake Up Sid) - Male Version - Amit Trivedi, Tochi Raina, Amitabh Bhattacharya, Raman Mahadevan"
+0.434,0.551,-8.396,0,0.0307,0.658,0.0749,0.582,110.23,O Mere Dil Ke Chain (From Mere Jeevan Saathi) - Kishore Kumar
+0.9,0.6,0.0,0,0.0,90.0,0.0,0.0,0.0,Variable

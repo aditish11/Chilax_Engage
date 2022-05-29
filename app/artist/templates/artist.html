@@ -1,0 +1,49 @@
+{% extends "base.html" %} 
+  {% block body %}
+
+    <div class="container">
+      <form action="/artist" method="POST" >
+        <div class="wrapper">
+          <div class="input-group">
+            <div class="form-outline">
+            <a href="" target="_blank" hidden></a>
+            <input
+              type="text"
+              placeholder="Type the name of artist"
+              name="artist"
+              id="artist"
+              autocomplete="chrome-off"
+            />
+            
+            </div>
+            <div class="autocom-box"></div>
+            <button class="btn btn-primary" type="submit" id="yoyo">
+              <i class="fas fa-search"></i>
+            </button>
+          </div>
+        </div>
+      </form>
+    </div>
+
+
+    <div class="carousel-2 mt-5" data-flickity='{ "groupCells": true }'>
+      {% if artist_songs|length!=0 %} 
+      {% for track in artist_songs %}
+      <div class="carousel-cell">
+        <a href="{{ track['track_url'] }}">
+          <img src="{{ track['track_img'] }}" class="card-img-top" alt=".." />
+        </a>
+        <div class="middle">
+          <div class="content">
+          <p class="content_text">{{ track['track_name'] }}</p>
+          </div>
+        </div>
+      </div>
+      {% endfor %} {% endif %}
+    </div>
+
+    <script >
+      let artist_list={{ list_of_artists|tojson }};
+    </script>
+    <script src="{{url_for('static',filename='js/artist.js')}}"></script>
+  {% endblock %}

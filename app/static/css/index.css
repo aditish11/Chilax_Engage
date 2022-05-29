@@ -1,0 +1,180 @@
+* { box-sizing: border-box; }
+body{
+background: rgb(57,55,57);
+background: linear-gradient(180deg, rgba(57,55,57,1) 13%, rgb(17, 14, 17) 65%);
+background-attachment: fixed;
+-webkit-backface-size:cover ;
+background-size: cover;
+color: rgb(224, 213, 210);
+
+}
+input{
+  height:3rem;
+  width:38rem;
+
+}
+#logo{
+  width:2rem;
+}
+form{
+  margin-top:8rem;
+  margin-left:9rem;
+}
+footer{
+  margin-top:5rem;
+}
+#nextbtn{
+  margin:auto;
+}
+h4{
+  margin-top: 3rem;
+  margin-left: 2rem;
+}
+h5{
+  align-items: center;
+}
+.carousel-control-prev,
+.carousel-control-next {
+  background-color: #bdbdbd;
+  width: 5vh;
+  height: 5vh;
+  border-radius: 50%;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.carousel-cell{
+  margin-left:1rem;
+}
+
+
+
+
+
+.carousel-cell {
+  width: 200px;
+  height: 200px;
+  margin-right: 10px;
+  border-radius: 5px;
+  counter-increment: carousel-cell;
+}
+
+/* cell number */
+#main-carousel.carousel-cell:before {
+  display: block;
+  text-align: center;
+  line-height: 200px;
+  font-size: 80px;
+  color: white;
+}
+
+.carousel-cell.img{
+  width:10rem;
+  height:8rem;
+}
+#highlight-1{
+background: rgb(35,8,64);
+background: linear-gradient(45deg, rgba(35,8,64,1) 47%, rgba(10,63,99,1) 80%, rgba(10,6,14,1) 100%);
+background-attachment: fixed;
+color: rgb(231, 221, 221);
+align-content: center;
+ height:14rem;
+ margin:2rem;
+ margin-bottom: 2rem;
+ text-align: center;
+}
+#highlight-2{
+/* background: rgb(17,1,17);
+background: radial-gradient(circle, rgba(17,1,17,0.7460026246826856) 3%, rgba(92,45,128,1) 100%, rgba(43,10,62,0.3734536050748425) 100%); */
+background: rgb(17,1,17);
+background: radial-gradient(circle, rgba(17,1,17,0.9308765742625175) 3%, rgba(76,14,93,1) 100%, rgba(43,10,62,0.3734536050748425) 100%, rgba(92,45,128,1) 100%);
+background-attachment: fixed;
+color: rgb(231, 221, 221);
+align-content: center;
+ height:14rem;
+ margin:2rem;
+ margin-bottom: 2rem;
+ text-align: center;
+}
+#highlight-3{
+background: rgb(184,34,75);
+background: linear-gradient(-90deg, rgba(184,34,75,1) 0%, rgb(1, 6, 35) 80%);
+background-attachment: fixed;
+color: rgb(231, 221, 221);
+align-content: center;
+ height:14rem;
+ margin:2rem;
+ margin-bottom: 2rem;
+ text-align: center;
+}
+
+#main-btn {
+  margin:2rem;
+  background-color: rgb(32, 116, 37);
+    box-shadow: 0 0 10px rgb(9, 70, 30);
+    font-family: Montserrat, serif;
+    border-radius: 11px rgb(223, 223, 223);
+    width: 200px;
+    height: 41px;
+}
+
+#main-btn:hover {
+    color: rgb(240, 240, 240);
+    background-color: rgb(35, 118, 109);
+    border: #f9f6f6;
+    box-shadow:  0 0 10px rgb(223, 223, 223);
+}
+.carousel-2.carousel-cell:before {
+  display: block;
+  text-align: center;
+  line-height: 200px;
+  color: white;
+}
+
+.card-img-top {
+  border-radius: 10px;
+  opacity: 1;
+  display: block;
+  width: 100%;
+  height: auto;
+  transition: 0.5s ease;
+  backface-visibility: hidden;
+}
+
+.middle {
+  transition: 0.5s ease;
+  opacity: 0;
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  text-align: center;
+  padding: 0px;
+  margin: 0px;
+  font-size:3px;
+}
+.content_text{
+  font-size:14px;
+}
+.carousel-cell:hover .card-img-top {
+  opacity: 0.1;
+  background-color: rgb(33, 33, 33);
+  padding: 0px;
+}
+
+.carousel-cell:hover .middle {
+  opacity: 1;
+  padding: 0px;
+}
+
+#yoyo{
+  position: absolute;
+  height:3rem;
+  margin-left:38rem;
+}
+.content {
+  color: rgb(0, 0, 0);
+  font-size: 2px;
+  padding: 0px;
+}

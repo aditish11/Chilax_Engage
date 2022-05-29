@@ -1,0 +1,10 @@
+body {
+background: rgb(57,55,57);
+background: linear-gradient(180deg, rgba(57,55,57,1) 13%, rgb(17, 14, 17) 65%);
+background-attachment: fixed;
+-webkit-backface-size:cover ;
+background-size: cover;
+color: rgb(224, 213, 210);
+-moz-background-size: cover;
+}
+

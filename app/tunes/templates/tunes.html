@@ -1,0 +1,99 @@
+{% extends "base.html" %} 
+  {% block body %}
+    <!-- Taking input from user for different audio features -->
+    <div class="danceability attribute">
+            <div class="container text-center hi">
+                <p>How danceable the songs should be?</p>
+                <span class="side-numbers">1</span>
+                <label>
+                    <input class="input-values" id="danceability" type="text" data-provide="slider" data-slider-min="1"
+                           data-slider-max="10" data-slider-step="1" data-slider-value="0"/>
+                </label>
+                <span class="side-numbers">10</span>
+            </div>
+        </div>
+
+        <hr/>
+
+        <div class="energy attribute">
+            <div class="container text-center hi">
+                <p>How much energy the songs must have?</p>
+                <span class="side-numbers">1</span>
+                <label>
+                    <input class="input-values" id="energy" type="text" data-provide="slider" data-slider-min="1"
+                           data-slider-max="10" data-slider-step="1" data-slider-value="0"/>
+                </label>
+                <span class="side-numbers">10</span>
+            </div>
+        </div>
+
+        <hr/>
+
+         <div class="accousticness attribute">
+            <div class="container text-center hi">
+                <p>How acoustic the songs should be?</p>
+                <span class="side-numbers">1</span>
+                <label>
+                    <input class="input-values" id="acousticness" type="text" data-provide="slider" data-slider-min="1"
+                           data-slider-max="10" data-slider-step="1" data-slider-value="0"/>
+                </label>
+                <span class="side-numbers">10</span>
+            </div>
+        </div>
+
+        <hr/>
+
+
+        <div class="loudness attribute">
+            <div class="container text-center hi">
+                <p>How loud the songs should be?</p>
+                <span class="side-numbers">1</span>
+                <label>
+                    <input class="input-values" id="loudness" type="text" data-provide="slider" data-slider-min="1"
+                           data-slider-max="10" data-slider-step="1" data-slider-value="0"/>
+                </label>
+                <span class="side-numbers">10</span>
+            </div>
+        </div>
+
+        <hr/>
+        
+        <!-- Getting back the input values for recommendations -->
+        <div class="text-center next-btn-div">
+            <form action="/tunes" method="POST">
+                <input type="hidden" id="tunes" name="tunes" value=""/>
+                <a>
+                    <button class="btn next-btn btn-primary" value="submit" id="nextbtn" type="submit"
+                            onclick="getFineTune()">
+                      Get
+                    </button>
+                </a>
+            </form>
+        </div>
+
+        <!--Displaying recommendations based on audio features  -->
+      <div class="carousel-2" data-flickity='{ "groupCells": true }'>
+    
+     {% if img_details|length!=0 %} 
+     {% for track in img_details %}
+      <div class="carousel-cell mt-5">
+         <a href="{{ track['track_url'] }}">
+          <img
+            src="{{ track['track_img'] }}"
+            class="card-img-top"
+            alt=".."
+          />
+         </a>
+         <div class="middle">
+          <div class="content">
+          <p class="content_text">{{ track['track_name'] }}</p>
+          </div>
+        </div>
+      </div>
+     {% endfor %}
+     {% endif %}
+    </div>
+  {% endblock %}       
+    
+
+    
