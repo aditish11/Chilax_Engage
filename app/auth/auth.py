@@ -6,8 +6,8 @@ from app.spotify_api.spotify_client import SpotifyClient
 auth_blueprint = Blueprint('auth_bp', __name__)
 
 #this is client ID and client Secret for my application
-os.environ['CLIENT_ID']="433b0ad5725e4f26aaa57ce7b55c5517"
-os.environ['CLIENT_SECRET']="3340d89a99d94d4c855c5d6296aad77f"
+os.environ['CLIENT_ID']="YOUR CLIENT ID"
+os.environ['CLIENT_SECRET']="YOUR CLIENT SECRET"
 
 client_id = os.environ.get('CLIENT_ID')
 client_secret = os.environ.get('CLIENT_SECRET')
